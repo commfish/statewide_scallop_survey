@@ -1,0 +1,2219 @@
+catch_id,tow,rcode,comname,sciname,sex,samp_grp,whole_haul,sample_type,samp_cnt,samp_wt
+2,19010001,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,166,20.00
+3,19010001,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.066
+4,19010001,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,3.638
+5,19010001,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.380
+6,19010001,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,16,0.768
+7,19010001,99997,unsorted catch and debris,,,0,Y,1,,8.77
+8,19010001,99997,unsorted catch and debris,,,0,Y,1,,16.58
+9,19010001,99997,unsorted catch and debris,,,0,Y,1,,15.98
+10,19010001,99997,unsorted catch and debris,,,0,Y,1,,18.16
+11,19010001,99997,unsorted catch and debris,,,0,Y,1,,8.50
+12,19010001,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.490
+13,19010001,68560,Tanner crab,Chionoecetes bairdi,,0,N,2,1,0.001
+20,19010001,99993,empty bivalve shells,,,0,N,2,,0.01
+2227,19010001,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,3.6
+23,19010002,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.329
+25,19010002,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,120,16.32
+28,19010002,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,40,5.82
+29,19010002,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.247
+30,19010002,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,12,0.290
+35,19010002,99997,unsorted catch and debris,,,0,Y,1,,9.64
+36,19010002,99997,unsorted catch and debris,,,0,Y,1,,17.08
+37,19010002,99997,unsorted catch and debris,,,0,Y,1,,15.22
+39,19010002,99997,unsorted catch and debris,,,0,Y,1,,14.6
+40,19010002,99997,unsorted catch and debris,,,0,Y,1,,12.5
+41,19010002,99997,unsorted catch and debris,,,0,Y,1,,15.4
+43,19010002,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.036
+46,19010002,69010,hermit crab unident.,Family Paguridae,,0,N,2,1,0.01
+52,19010002,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,3.89
+64,19010002,99999,natural debris,,,0,N,2,1,0.028
+67,19010002,66570,Argis sp.,Argis sp.,,0,N,2,1,0.001
+73,19010003,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.733
+74,19010003,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,60,10.26
+76,19010003,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,5.22
+77,19010003,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,9,0.152
+79,19010003,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,8,0.068
+81,19010003,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,2.4
+82,19010003,99997,unsorted catch and debris,,,0,Y,1,,17.36
+83,19010003,99997,unsorted catch and debris,,,0,Y,1,,16.86
+84,19010003,99997,unsorted catch and debris,,,0,Y,1,,16.4
+85,19010003,99997,unsorted catch and debris,,,0,Y,1,,17.92
+86,19010003,99997,unsorted catch and debris,,,0,Y,1,,17.22
+87,19010003,99997,unsorted catch and debris,,,0,Y,1,,20.38
+88,19010003,99997,unsorted catch and debris,,,0,Y,1,,15.64
+90,19010003,80810,Leafy Flat star,Luidia foliolata,,0,N,2,1,0.142
+94,19010003,68040,pygmy cancer crab,Cancer oregonensis,,0,N,2,1,0.01
+96,19010003,69010,hermit crab unident.,Family Paguridae,,0,N,2,3,0.01
+98,19010003,10001,flatfish unident.,Order Pleuronectiformes,,0,N,2,1,0.01
+100,19010003,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.89
+103,19010003,66570,Argis sp.,Argis sp.,,0,N,2,1,0.001
+2228,19010003,99997,unsorted catch and debris,,,0,Y,1,,13.76
+106,19010004,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.148
+107,19010004,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,104,11.44
+108,19010004,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,100,11.66
+109,19010004,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,100,11.80
+110,19010004,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,3.73
+111,19010004,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.487
+112,19010004,99997,unsorted catch and debris,,,0,Y,1,,6.72
+113,19010004,99997,unsorted catch and debris,,,0,Y,1,,17.98
+114,19010004,99997,unsorted catch and debris,,,0,Y,1,,17.92
+115,19010004,99997,unsorted catch and debris,,,0,Y,1,,13.68
+118,19010004,99997,unsorted catch and debris,,,0,Y,1,,15.18
+120,19010004,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.604
+122,19010004,68578,Pacific lyre crab,Hyas lyratus,,0,N,2,2,0.008
+123,19010004,69010,hermit crab unident.,Family Paguridae,,0,N,2,2,0.01
+125,19010004,99993,empty bivalve shells,,,0,N,2,3,0.058
+14,19010005,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.026
+15,19010005,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,6,1.03
+16,19010005,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,5.08
+17,19010005,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.11
+18,19010005,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,5,0.017
+19,19010005,99997,unsorted catch and debris,,,0,Y,1,,14.9
+21,19010005,99997,unsorted catch and debris,,,0,Y,1,,10.6
+22,19010005,99997,unsorted catch and debris,,,0,Y,1,,16.28
+24,19010005,99997,unsorted catch and debris,,,0,Y,1,,17.48
+26,19010005,99997,unsorted catch and debris,,,0,Y,1,,16.22
+27,19010005,99997,unsorted catch and debris,,,0,Y,1,,17.08
+31,19010005,99997,unsorted catch and debris,,,0,Y,1,,17.76
+32,19010005,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.416
+34,19010005,99993,empty bivalve shells,,,0,N,2,,0.059
+38,19010005,71535,Aleutian moonsnail,Cryptonatica (=Natica) aleutica,,0,N,2,2,0.024
+42,19010006,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.776
+44,19010006,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,104,18.08
+45,19010006,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,5.58
+47,19010006,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,4,0.015
+48,19010006,99997,unsorted catch and debris,,,0,Y,1,,17.84
+49,19010006,99997,unsorted catch and debris,,,0,Y,1,,20.30
+50,19010006,99997,unsorted catch and debris,,,0,Y,1,,17.12
+51,19010006,99997,unsorted catch and debris,,,0,Y,1,,16.52
+53,19010006,99997,unsorted catch and debris,,,0,Y,1,,17.74
+54,19010006,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.316
+55,19010006,10001,flatfish unident.,Order Pleuronectiformes,,0,N,2,2,0.005
+56,19010006,99993,empty bivalve shells,,,0,N,2,,0.021
+57,19010006,69010,hermit crab unident.,Family Paguridae,,0,N,2,2,0.018
+58,19010006,66570,Argis sp.,Argis sp.,,0,N,2,1,0.001
+59,19010007,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.65
+60,19010007,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,5.10
+61,19010007,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,7,0.986
+62,19010007,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,1,0.167
+63,19010007,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,6,0.043
+65,19010007,99997,unsorted catch and debris,,,0,Y,1,,21.54
+66,19010007,99997,unsorted catch and debris,,,0,Y,1,,14.48
+68,19010007,99997,unsorted catch and debris,,,0,Y,1,,14.1
+69,19010007,99997,unsorted catch and debris,,,0,Y,1,,6.8
+70,19010007,99997,unsorted catch and debris,,,0,Y,1,,15.58
+71,19010007,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.066
+72,19010007,99993,empty bivalve shells,,,0,N,2,,0.002
+75,19010007,68040,pygmy cancer crab,Cancer oregonensis,,0,N,2,1,0.005
+78,19010007,441,raja rhina egg case,longnose skate egg case,,0,N,2,1,0.131
+80,19010007,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,1,0.002
+89,19010008,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,143,20.58
+91,19010008,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,107,16.96
+92,19010008,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,156,24.24
+93,19010008,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,138,20.25
+95,19010008,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,114,18.26
+97,19010008,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,120,19.04
+99,19010008,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,149,22.04
+101,19010008,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,138,22.42
+102,19010008,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,125,19.9
+104,19010008,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,47,8.76
+105,19010008,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,40,4.10
+116,19010009,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.167
+117,19010009,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,89,11.28
+119,19010009,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,3.75
+121,19010009,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.541
+124,19010009,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,7,0.427
+126,19010009,99997,unsorted catch and debris,,,0,Y,1,,19.64
+127,19010009,99997,unsorted catch and debris,,,0,Y,1,,21.50
+128,19010009,99997,unsorted catch and debris,,,0,Y,1,,6.66
+129,19010009,99997,unsorted catch and debris,,,0,Y,1,,19.86
+130,19010009,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.288
+132,19010009,10001,flatfish unident.,Order Pleuronectiformes,,0,N,2,1,0.012
+134,19010009,24191,shortfin eelpout,Lycodes brevipes,,0,N,2,1,0.012
+137,19010009,81780,common mud star,Ctenodiscus crispatus,,0,N,2,2,0.019
+147,19010010,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.17
+148,19010010,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,6,1.32
+150,19010010,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,8,0.017
+158,19010010,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,4.34
+159,19010010,99997,unsorted catch and debris,,,0,Y,1,,16.5
+160,19010010,99997,unsorted catch and debris,,,0,Y,1,,17.62
+161,19010010,99997,unsorted catch and debris,,,0,Y,1,,15.72
+163,19010010,99997,unsorted catch and debris,,,0,Y,1,,18.74
+166,19010010,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.646
+168,19010010,99993,empty bivalve shells,,,0,N,2,,0.002
+170,19010010,99994,empty gastropod shells,,,0,N,2,,0.02
+175,19010011,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,8,1.780
+181,19010011,471,Alaska skate,Bathyraja parmifera,,-1,Y,1,1,0.07
+183,19010011,99997,unsorted catch and debris,,,0,Y,1,,12.04
+184,19010011,80810,Leafy Flat star,Luidia foliolata,,0,N,2,11,2.861
+185,19010011,21710,Pacific tomcod,Microgadus proximus,,0,N,2,1,0.023
+188,19010011,10010,Pacific sanddab,Citharichthys sordidus,,0,N,2,3,0.136
+191,19010011,82510,green sea urchin,Strongylocentrotus droebachiensis,,0,N,2,7,0.072
+193,19010011,99993,empty bivalve shells,,,0,N,2,,0.053
+194,19010011,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,0.384
+196,19010012,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,14,2.9
+198,19010012,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.18
+200,19010012,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,4,0.31
+203,19010012,99997,unsorted catch and debris,,,0,Y,1,,17.32
+204,19010012,99997,unsorted catch and debris,,,0,Y,1,,14.30
+206,19010012,99997,unsorted catch and debris,,,0,Y,1,,17.4
+207,19010012,99997,unsorted catch and debris,,,0,Y,1,,13.6
+209,19010012,99997,unsorted catch and debris,,,0,Y,1,,11.46
+211,19010012,99997,unsorted catch and debris,,,0,Y,1,,8.1
+213,19010012,80810,Leafy Flat star,Luidia foliolata,,0,N,2,1,0.102
+218,19010012,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.116
+221,19010013,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,3,0.586
+222,19010013,99997,unsorted catch and debris,,,0,Y,1,,15.80
+223,19010013,99997,unsorted catch and debris,,,0,Y,1,,16.14
+224,19010013,99997,unsorted catch and debris,,,0,Y,1,,15.38
+225,19010013,99997,unsorted catch and debris,,,0,Y,1,,16.16
+226,19010013,99997,unsorted catch and debris,,,0,Y,1,,14.68
+227,19010013,99997,unsorted catch and debris,,,0,Y,1,,14.52
+228,19010013,80170,Stylasterias forreri,Stylasterias forreri,,0,N,2,1,0.128
+229,19010013,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.314
+230,19010014,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.624
+231,19010014,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,78,11.86
+232,19010014,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,4.614
+233,19010014,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,1,0.136
+234,19010014,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.161
+235,19010014,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,23,0.607
+236,19010014,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,0.542
+237,19010014,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,1,0.050
+238,19010014,99997,unsorted catch and debris,,,0,Y,1,,15.54
+239,19010014,99997,unsorted catch and debris,,,0,Y,1,,14.72
+240,19010014,99997,unsorted catch and debris,,,0,Y,1,,13.94
+241,19010014,99997,unsorted catch and debris,,,0,Y,1,,13.00
+242,19010014,99997,unsorted catch and debris,,,0,Y,1,,11.94
+243,19010014,99997,unsorted catch and debris,,,0,Y,1,,13.10
+244,19010014,99997,unsorted catch and debris,,,0,Y,1,,9.4
+245,19010014,68560,Tanner crab,Chionoecetes bairdi,,0,N,2,2,0.038
+246,19010014,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.444
+247,19010015,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.626
+248,19010015,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,5.41
+249,19010015,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,76,12.84
+250,19010015,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.206
+251,19010015,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,14,0.290
+252,19010015,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,0.484
+253,19010015,99997,unsorted catch and debris,,,0,Y,1,,13.94
+254,19010015,99997,unsorted catch and debris,,,0,Y,1,,14.2
+255,19010015,99997,unsorted catch and debris,,,0,Y,1,,15.58
+256,19010015,99997,unsorted catch and debris,,,0,Y,1,,14.66
+257,19010015,99997,unsorted catch and debris,,,0,Y,1,,13.92
+258,19010015,99997,unsorted catch and debris,,,0,Y,1,,15.4
+262,19010015,99997,unsorted catch and debris,,,0,Y,1,,14.18
+263,19010015,99997,unsorted catch and debris,,,0,Y,1,,15.7
+265,19010015,23873,crescent gunnel,Pholis laeta,,0,N,2,1,0.002
+267,19010015,81780,common mud star,Ctenodiscus crispatus,,0,N,2,2,0.001
+271,19010015,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.605
+277,19010016,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,120,20.08
+278,19010016,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,121,19.84
+280,19010016,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,91,15.20
+281,19010016,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,132,20.50
+282,19010016,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,125,20.18
+284,19010016,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,129,27.16
+286,19010016,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,63,9.8
+287,19010016,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,100,16.1
+289,19010016,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,79,12.6
+290,19010016,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,40,6.92
+292,19010016,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,108,17.9
+294,19010016,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,114,18.3
+295,19010016,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,40,3.25
+296,19010016,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,155,13.54
+131,19010017,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.276
+133,19010017,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,4.214
+135,19010017,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,12,1.940
+136,19010017,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,11,0.349
+138,19010017,99997,unsorted catch and debris,,,0,Y,1,,12.7
+139,19010017,99997,unsorted catch and debris,,,0,Y,1,,6.5
+140,19010017,99997,unsorted catch and debris,,,0,Y,1,,16.18
+141,19010017,99997,unsorted catch and debris,,,0,Y,1,,10.00
+142,19010017,99993,empty bivalve shells,,,0,N,2,2,0.036
+143,19010017,81780,common mud star,Ctenodiscus crispatus,,0,N,2,3,0.026
+144,19010017,68560,Tanner crab,Chionoecetes bairdi,,0,N,2,1,0.008
+145,19010017,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.488
+146,19010018,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.183
+149,19010018,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,20,2.72
+151,19010018,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,3.808
+152,19010018,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,5,0.062
+153,19010018,99997,unsorted catch and debris,,,0,Y,1,,18.00
+154,19010018,99997,unsorted catch and debris,,,0,Y,1,,18.5
+155,19010018,99997,unsorted catch and debris,,,0,Y,1,,7.9
+156,19010018,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.651
+157,19010018,81780,common mud star,Ctenodiscus crispatus,,0,N,2,1,0.001
+162,19010019,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.259
+164,19010019,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,3.570
+165,19010019,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,42,4.56
+167,19010019,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.624
+169,19010019,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,8,0.494
+171,19010019,99997,unsorted catch and debris,,,0,Y,1,,15.70
+172,19010019,99997,unsorted catch and debris,,,0,Y,1,,7.56
+173,19010019,99997,unsorted catch and debris,,,0,Y,1,,12.0
+174,19010019,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.122
+176,19010019,82675,heart urchin,Brisaster latifrons,,0,N,2,1,0.092
+177,19010020,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.419
+178,19010020,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,24,3.466
+179,19010020,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,5,0.573
+180,19010020,435,Bering skate,Bathyraja interrupta,,-1,Y,1,1,1.1
+182,19010020,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,0.984
+186,19010020,99997,unsorted catch and debris,,,0,Y,1,,13.54
+187,19010020,99997,unsorted catch and debris,,,0,Y,1,,15.40
+189,19010020,99997,unsorted catch and debris,,,0,Y,1,,10.4
+190,19010020,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.01
+192,19010020,43000,sea anemone unident.,Order Actiniaria,,0,N,2,1,0.301
+195,19010021,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.665
+197,19010021,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,107,15.74
+199,19010021,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,4.37
+201,19010021,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.197
+202,19010021,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,22,0.651
+205,19010021,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,1.555
+208,19010021,435,Bering skate,Bathyraja interrupta,,-1,Y,1,1,0.742
+210,19010021,99997,unsorted catch and debris,,,0,Y,1,,15.28
+212,19010021,99997,unsorted catch and debris,,,0,Y,1,,7.60
+214,19010021,99997,unsorted catch and debris,,,0,Y,1,,17.92
+215,19010021,99997,unsorted catch and debris,,,0,Y,1,,14.78
+216,19010021,99997,unsorted catch and debris,,,0,Y,1,,14.40
+217,19010021,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.45
+219,19010021,74104,Chlamys sp.,Chlamys sp.,,0,N,2,1,0.001
+220,19010021,66770,Pacific glass shrimp,Pasiphaea pacifica,,0,N,2,2,0.002
+259,19010022,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.396
+260,19010022,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,14,1.76
+261,19010022,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,4.066
+264,19010022,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,221,5.256
+266,19010022,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.191
+268,19010022,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,0.697
+269,19010022,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,5,0.07
+270,19010022,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,2,1.940
+272,19010022,99997,unsorted catch and debris,,,0,Y,1,,13.6
+273,19010022,99997,unsorted catch and debris,,,0,Y,1,,15.94
+274,19010022,99997,unsorted catch and debris,,,0,Y,1,,13.86
+275,19010022,99997,unsorted catch and debris,,,0,Y,1,,15.30
+276,19010022,99997,unsorted catch and debris,,,0,Y,1,,15.06
+279,19010022,99997,unsorted catch and debris,,,0,Y,1,,6.06
+283,19010022,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.016
+285,19010022,68560,Tanner crab,Chionoecetes bairdi,,0,N,2,1,0.004
+288,19010022,80810,Leafy Flat star,Luidia foliolata,,0,N,2,1,0.065
+291,19010022,10001,flatfish unident.,Order Pleuronectiformes,,0,N,2,3,0.006
+293,19010022,74435,Nuculana sp.,Nuculana sp.,,0,N,2,1,0.001
+2225,19010022,69010,hermit crab unident.,Family Paguridae,,0,N,2,1,0.004
+297,19010023,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.318
+298,19010023,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,3.856
+299,19010023,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,86,10.86
+300,19010023,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.296
+301,19010023,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,121,3.204
+302,19010023,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,0.844
+303,19010023,435,Bering skate,Bathyraja interrupta,,-1,Y,1,1,1.023
+305,19010023,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,3,2.988
+307,19010023,99997,unsorted catch and debris,,,0,Y,1,,14.87
+309,19010023,99997,unsorted catch and debris,,,0,Y,1,,20.8
+311,19010023,99997,unsorted catch and debris,,,0,Y,1,,15.6
+313,19010023,99997,unsorted catch and debris,,,0,Y,1,,6.1
+314,19010023,99997,unsorted catch and debris,,,0,Y,1,,14.2
+316,19010023,99997,unsorted catch and debris,,,0,Y,1,,18.86
+318,19010023,99997,unsorted catch and debris,,,0,Y,1,,15.9
+319,19010023,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.588
+320,19010023,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,,0.027
+322,19010023,80810,Leafy Flat star,Luidia foliolata,,0,N,2,,0.028
+324,19010023,56312,depressed scale worm,Eunoe depressa,,0,N,2,,0.001
+326,19010023,66190,Eualus biunguis,Eualus biunguis,,0,N,2,,0.001
+327,19010023,24100,eelpout unident.,Family Zoarcidae,,0,N,2,,0.001
+340,19010024,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,148,19.66
+341,19010024,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,147,19.52
+342,19010024,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,166,20.28
+344,19010024,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,183,23.2
+346,19010024,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,180,22.24
+347,19010024,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,143,19.20
+349,19010024,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,178,22.58
+350,19010024,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,170,21.94
+351,19010024,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,178,21.80
+353,19010024,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,175,22.98
+354,19010024,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,296,22.76
+355,19010024,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,247,21.38
+356,19010024,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,142,10.44
+357,19010024,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,280,21.28
+304,19010025,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,1,0.119
+306,19010025,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,6,0.178
+308,19010025,99997,unsorted catch and debris,,,0,Y,1,,14.86
+310,19010025,99997,unsorted catch and debris,,,0,Y,1,,14.36
+312,19010025,99997,unsorted catch and debris,,,0,Y,1,,17.56
+315,19010025,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.516
+317,19010025,68560,Tanner crab,Chionoecetes bairdi,,0,N,2,2,0.008
+321,19010025,68578,Pacific lyre crab,Hyas lyratus,,0,N,2,2,0.017
+323,19010025,69035,Pagurus sp.,Pagurus sp.,,0,N,2,1,0.005
+325,19010025,10200,rex sole,Glyptocephalus zachirus,,0,N,2,1,0.04
+328,19010026,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.464
+329,19010026,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,3.954
+330,19010026,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,32,3.76
+331,19010026,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.276
+332,19010026,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,132,4.922
+333,19010026,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,0.984
+334,19010026,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,4,0.11
+335,19010026,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,2,2.05
+336,19010026,99997,unsorted catch and debris,,,0,Y,1,,14.1
+337,19010026,99997,unsorted catch and debris,,,0,Y,1,,13.5
+338,19010026,99997,unsorted catch and debris,,,0,Y,1,,15.1
+339,19010026,99997,unsorted catch and debris,,,0,Y,1,,16.94
+343,19010026,99997,unsorted catch and debris,,,0,Y,1,,17.60
+345,19010026,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.484
+348,19010026,74435,Nuculana sp.,Nuculana sp.,,0,N,2,2,0.006
+352,19010026,66502,Crangon sp.,Crangon sp.,,0,N,2,1,0.002
+360,19010027,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.628
+363,19010027,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,4.950
+364,19010027,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,69,9.84
+365,19010027,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.491
+366,19010027,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,66,1.913
+367,19010027,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,0.879
+368,19010027,99997,unsorted catch and debris,,,0,Y,1,,15.5
+369,19010027,99997,unsorted catch and debris,,,0,Y,1,,14.8
+370,19010027,99997,unsorted catch and debris,,,0,Y,1,,16.62
+371,19010027,99997,unsorted catch and debris,,,0,Y,1,,17.12
+372,19010027,99997,unsorted catch and debris,,,0,Y,1,,9
+373,19010027,99997,unsorted catch and debris,,,0,Y,1,,10.6
+374,19010027,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.448
+377,19010027,10001,flatfish unident.,Order Pleuronectiformes,,0,N,2,1,0.005
+379,19010027,66770,Pacific glass shrimp,Pasiphaea pacifica,,0,N,2,1,0.001
+382,19010027,99993,empty bivalve shells,,,0,N,2,3,0.017
+358,19010028,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,138,21.22
+359,19010028,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,4.636
+361,19010028,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.632
+362,19010028,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,13,0.131
+375,19010028,99997,unsorted catch and debris,,,0,Y,1,,15.2
+376,19010028,99997,unsorted catch and debris,,,0,Y,1,,18.5
+378,19010028,99997,unsorted catch and debris,,,0,Y,1,,11.6
+380,19010028,99997,unsorted catch and debris,,,0,Y,1,,16.8
+383,19010028,99997,unsorted catch and debris,,,0,Y,1,,14.02
+384,19010028,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.707
+385,19010028,68560,Tanner crab,Chionoecetes bairdi,,0,N,2,1,0.002
+386,19010028,71525,Natica sp.,Natica sp.,,0,N,2,1,0.016
+399,19010029,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.648
+400,19010029,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,70,10.88
+403,19010029,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,4.80
+406,19010029,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.176
+407,19010029,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,0.579
+408,19010029,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,68,1.257
+409,19010029,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,0.960
+410,19010029,99997,unsorted catch and debris,,,0,Y,1,,17.48
+411,19010029,99997,unsorted catch and debris,,,0,Y,1,,18.08
+412,19010029,99997,unsorted catch and debris,,,0,Y,1,,15.10
+413,19010029,99997,unsorted catch and debris,,,0,Y,1,,18.28
+414,19010029,99997,unsorted catch and debris,,,0,Y,1,,15.9
+415,19010029,99997,unsorted catch and debris,,,0,Y,1,,15.7
+416,19010029,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.93
+417,19010029,99993,empty bivalve shells,,,0,N,2,6,0.017
+418,19010029,69010,hermit crab unident.,Family Paguridae,,0,N,2,1,0.003
+419,19010029,66502,Crangon sp.,Crangon sp.,,0,N,2,1,0.002
+387,19010030,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.401
+388,19010030,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,18,2.448
+389,19010030,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.223
+390,19010030,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,0.624
+391,19010030,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,79,1.775
+392,19010030,99997,unsorted catch and debris,,,0,Y,1,,15.3
+393,19010030,99997,unsorted catch and debris,,,0,Y,1,,14.1
+394,19010030,99997,unsorted catch and debris,,,0,Y,1,,14.4
+395,19010030,99997,unsorted catch and debris,,,0,Y,1,,12.78
+396,19010030,99997,unsorted catch and debris,,,0,Y,1,,11.1
+397,19010030,99997,unsorted catch and debris,,,0,Y,1,,5.78
+398,19010030,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.496
+401,19010030,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,1,0.035
+402,19010030,99993,empty bivalve shells,,,0,N,2,,0.02
+404,19010030,10001,flatfish unident.,Order Pleuronectiformes,,0,N,2,1,0.01
+405,19010030,69010,hermit crab unident.,Family Paguridae,,0,N,2,,0.001
+581,19010031,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.08
+582,19010031,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,86,15.58
+583,19010031,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,5.51
+584,19010031,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.204
+585,19010031,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,4,0.083
+586,19010031,99997,unsorted catch and debris,,,0,Y,1,,15.8
+587,19010031,99997,unsorted catch and debris,,,0,Y,1,,16.1
+588,19010031,99997,unsorted catch and debris,,,0,Y,1,,14.44
+589,19010031,99997,unsorted catch and debris,,,0,Y,1,,19.10
+590,19010031,99997,unsorted catch and debris,,,0,Y,1,,12.90
+591,19010031,99997,unsorted catch and debris,,,0,Y,1,,15.4
+592,19010031,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.056
+593,19010031,69035,Pagurus sp.,Pagurus sp.,,0,N,2,3,0.028
+1391,19010032,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,111,20.42
+1392,19010032,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,97,17.94
+1393,19010032,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,101,17.76
+1394,19010032,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,129,22.86
+1395,19010032,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,114,20.06
+1396,19010032,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,80,14.46
+1397,19010032,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,92,8.68
+594,19010033,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.660
+595,19010033,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,23,3.43
+596,19010033,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.283
+597,19010033,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,0.799
+598,19010033,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,118,2.984
+599,19010033,421,Raja binoculata egg case,Raja binoculata egg case,,-1,Y,1,20,8.08
+600,19010033,421,Raja binoculata egg case,Raja binoculata egg case,,-1,Y,1,29,9.66
+601,19010033,421,Raja binoculata egg case,Raja binoculata egg case,,-1,Y,1,13,5.28
+602,19010033,99997,unsorted catch and debris,,,0,Y,1,,16.32
+603,19010033,99997,unsorted catch and debris,,,0,Y,1,,19.76
+604,19010033,99997,unsorted catch and debris,,,0,Y,1,,14.90
+605,19010033,99997,unsorted catch and debris,,,0,Y,1,,6.46
+606,19010033,99997,unsorted catch and debris,,,0,Y,1,,13.50
+607,19010033,99997,unsorted catch and debris,,,0,Y,1,,17.34
+608,19010033,99997,unsorted catch and debris,,,0,Y,1,,12.8
+609,19010033,99997,unsorted catch and debris,,,0,Y,1,,15.92
+610,19010033,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.145
+611,19010033,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,1,0.029
+612,19010033,71525,Natica sp.,Natica sp.,,0,N,2,1,0.039
+613,19010033,69035,Pagurus sp.,Pagurus sp.,,0,N,2,2,0.005
+614,19010033,99993,empty bivalve shells,,,0,N,2,,0.090
+615,19010034,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.840
+616,19010034,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,88,14.54
+617,19010034,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,5.082
+618,19010034,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.468
+619,19010034,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,1.299
+620,19010034,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,39,1.583
+621,19010034,99997,unsorted catch and debris,,,0,Y,1,,11.84
+622,19010034,99997,unsorted catch and debris,,,0,Y,1,,12.86
+623,19010034,99997,unsorted catch and debris,,,0,Y,1,,19.52
+624,19010034,99997,unsorted catch and debris,,,0,Y,1,,11.28
+625,19010034,99997,unsorted catch and debris,,,0,Y,1,,12.12
+626,19010034,99997,unsorted catch and debris,,,0,Y,1,,15.68
+627,19010034,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.52
+628,19010034,80810,Leafy Flat star,Luidia foliolata,,0,N,2,,0.140
+629,19010034,99999,natural debris,,,0,N,2,,0.016
+630,19010034,99993,empty bivalve shells,,,0,N,2,,0.058
+631,19010034,69035,Pagurus sp.,Pagurus sp.,,0,N,2,,0.001
+632,19010034,71525,Natica sp.,Natica sp.,,0,N,2,1,0.002
+2229,19010034,74985,California cockle,Clinocardium californiense,,0,N,2,1,0.005
+633,19010035,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.493
+634,19010035,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,86,13.66
+635,19010035,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,4.246
+636,19010035,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,162,4.992
+637,19010035,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,0.814
+638,19010035,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.241
+639,19010035,99997,unsorted catch and debris,,,0,Y,1,,13.1
+640,19010035,99997,unsorted catch and debris,,,0,Y,1,,17.4
+641,19010035,99997,unsorted catch and debris,,,0,Y,1,,17.84
+642,19010035,99997,unsorted catch and debris,,,0,Y,1,,14.52
+643,19010035,99997,unsorted catch and debris,,,0,Y,1,,17.16
+644,19010035,99997,unsorted catch and debris,,,0,Y,1,,15.34
+645,19010035,99997,unsorted catch and debris,,,0,Y,1,,14.9
+646,19010035,99997,unsorted catch and debris,,,0,Y,1,,17.1
+647,19010035,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.650
+648,19010035,80810,Leafy Flat star,Luidia foliolata,,0,N,2,2,0.025
+649,19010035,42017,orange sea pen,Ptilosarcus gurneyi,,0,N,2,1,0.028
+650,19010035,10001,flatfish unident.,Order Pleuronectiformes,,0,N,2,1,0.005
+651,19010035,99999,natural debris,,,0,N,2,,0.021
+652,19010035,99993,empty bivalve shells,,,0,N,2,,0.017
+653,19010036,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,0.948
+654,19010036,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,67,6.58
+655,19010036,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,2.954
+656,19010036,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.432
+657,19010036,99997,unsorted catch and debris,,,0,Y,1,,11.0
+658,19010036,99997,unsorted catch and debris,,,0,Y,1,,15.3
+659,19010036,99997,unsorted catch and debris,,,0,Y,1,,13.3
+660,19010036,99997,unsorted catch and debris,,,0,Y,1,,6.76
+661,19010036,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.876
+662,19010036,80810,Leafy Flat star,Luidia foliolata,,0,N,2,1,0.004
+663,19010036,81780,common mud star,Ctenodiscus crispatus,,0,N,2,5,0.04
+664,19010036,10180,Dover sole,Microstomus pacificus,,0,N,2,1,0.099
+665,19010036,10001,flatfish unident.,Order Pleuronectiformes,,0,N,2,1,0.001
+666,19010036,68560,Tanner crab,Chionoecetes bairdi,,0,N,2,1,0.002
+667,19010036,66770,Pacific glass shrimp,Pasiphaea pacifica,,0,N,2,1,0.001
+668,19010037,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.373
+669,19010037,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,3.78
+670,19010037,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,97,11.62
+671,19010037,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,9,0.734
+672,19010037,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,2,3.032
+673,19010037,435,Bering skate,Bathyraja interrupta,,-1,Y,1,1,1.74
+674,19010037,99997,unsorted catch and debris,,,0,Y,1,,13.92
+675,19010037,99997,unsorted catch and debris,,,0,Y,1,,15.7
+676,19010037,99997,unsorted catch and debris,,,0,Y,1,,13.46
+677,19010037,99997,unsorted catch and debris,,,0,Y,1,,15.9
+678,19010037,99997,unsorted catch and debris,,,0,Y,1,,11.3
+679,19010037,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.495
+680,19010037,23850,whitebarred prickleback,Poroclinus rothrocki,,0,N,2,1,0.003
+681,19010037,69035,Pagurus sp.,Pagurus sp.,,0,N,2,1,0.001
+682,19010037,66770,Pacific glass shrimp,Pasiphaea pacifica,,0,N,2,1,0.001
+683,19010038,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,63,8.06
+684,19010038,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.326
+685,19010038,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,3.768
+686,19010038,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.570
+687,19010038,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,5,0.120
+688,19010038,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,1.434
+689,19010038,99997,unsorted catch and debris,,,0,Y,1,,15.94
+690,19010038,99997,unsorted catch and debris,,,0,Y,1,,12.5
+691,19010038,99997,unsorted catch and debris,,,0,Y,1,,10.10
+692,19010038,99997,unsorted catch and debris,,,0,Y,1,,13.54
+693,19010038,99997,unsorted catch and debris,,,0,Y,1,,14.44
+694,19010038,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.382
+695,19010038,66770,Pacific glass shrimp,Pasiphaea pacifica,,0,N,2,3,0.002
+696,19010038,54030,Cheilonereis cyclurus,Cheilonereis cyclurus,,0,N,2,,0.008
+697,19010038,99993,empty bivalve shells,,,0,N,2,,0.01
+698,19010039,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.743
+699,19010039,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,4.776
+700,19010039,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,6,0.925
+701,19010039,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.253
+702,19010039,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,0.922
+703,19010039,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,51,1.671
+704,19010039,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,2,2.560
+705,19010039,99997,unsorted catch and debris,,,0,Y,1,,15.3
+706,19010039,99997,unsorted catch and debris,,,0,Y,1,,9.05
+707,19010039,99997,unsorted catch and debris,,,0,Y,1,,15.4
+708,19010039,99997,unsorted catch and debris,,,0,Y,1,,14.56
+709,19010039,99997,unsorted catch and debris,,,0,Y,1,,8.48
+710,19010039,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.948
+711,19010039,80810,Leafy Flat star,Luidia foliolata,,0,N,2,1,0.006
+712,19010039,69035,Pagurus sp.,Pagurus sp.,,0,N,2,1,0.003
+713,19010039,23791,dwarf wrymouth,Lyconectes aleutensis,,0,N,2,1,0.004
+714,19010039,66570,Argis sp.,Argis sp.,,0,N,2,1,0.002
+715,19010039,74435,Nuculana sp.,Nuculana sp.,,0,N,2,1,0.003
+716,19010039,99993,empty bivalve shells,,,0,N,2,,0.009
+1398,19010040,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,141,21.84
+1399,19010040,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,116,19.5
+1400,19010040,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,137,22.48
+1401,19010040,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,113,18.87
+1402,19010040,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,142,20.9
+1403,19010040,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,107,16.7
+1404,19010040,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,128,19.52
+1405,19010040,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,125,20
+1408,19010040,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,99,8.06
+1409,19010040,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,145,12.66
+1410,19010040,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,248,20.10
+717,19010041,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.11
+718,19010041,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,31,3.438
+719,19010041,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,29,3.358
+720,19010041,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.725
+721,19010041,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,25,1.720
+722,19010041,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,6.94
+723,19010041,99997,unsorted catch and debris,,,0,Y,1,,13.6
+724,19010041,99997,unsorted catch and debris,,,0,Y,1,,15.4
+725,19010041,99997,unsorted catch and debris,,,0,Y,1,,13.2
+726,19010041,99997,unsorted catch and debris,,,0,Y,1,,19.12
+727,19010041,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.992
+728,19010041,10180,Dover sole,Microstomus pacificus,,0,N,2,1,0.675
+729,19010041,68578,Pacific lyre crab,Hyas lyratus,,0,N,2,1,0.032
+730,19010041,66570,Argis sp.,Argis sp.,,0,N,2,,0.001
+731,19010042,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.32
+732,19010042,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,4.162
+733,19010042,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,53,6.68
+734,19010042,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.384
+735,19010042,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,13,0.485
+736,19010042,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,0.370
+737,19010042,99997,unsorted catch and debris,,,0,Y,1,,12.5
+738,19010042,99997,unsorted catch and debris,,,0,Y,1,,12.5
+739,19010042,99997,unsorted catch and debris,,,0,Y,1,,12.6
+740,19010042,99997,unsorted catch and debris,,,0,Y,1,,15.1
+741,19010042,99997,unsorted catch and debris,,,0,Y,1,,13.5
+742,19010042,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.3
+743,19010043,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.425
+744,19010043,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,4.396
+745,19010043,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,56,8.04
+746,19010043,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.194
+747,19010043,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,0.709
+748,19010043,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,81,2.1
+749,19010043,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,2,2.227
+750,19010043,99997,unsorted catch and debris,,,0,Y,1,,12.46
+751,19010043,99997,unsorted catch and debris,,,0,Y,1,,19.56
+752,19010043,99997,unsorted catch and debris,,,0,Y,1,,12.20
+753,19010043,99997,unsorted catch and debris,,,0,Y,1,,15.78
+754,19010043,99997,unsorted catch and debris,,,0,Y,1,,9.2
+755,19010043,99997,unsorted catch and debris,,,0,Y,1,,14.9
+756,19010043,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.346
+757,19010043,99999,natural debris,,,0,N,2,,0.094
+758,19010043,80810,Leafy Flat star,Luidia foliolata,,0,N,2,1,0.166
+759,19010043,99993,empty bivalve shells,,,0,N,2,,0.024
+760,19010043,69010,hermit crab unident.,Family Paguridae,,0,N,2,2,0.024
+761,19010043,71525,Natica sp.,Natica sp.,,0,N,2,1,0.004
+762,19010043,66033,yellowleg pandalid,Pandalus tridens,,0,N,2,1,0.002
+763,19010043,30040,rockfish unident.,Family Scorpaenidae,,0,N,2,1,0.026
+764,19010044,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,1,0.084
+765,19010044,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,0.888
+766,19010044,99997,unsorted catch and debris,,,0,Y,1,,9.56
+767,19010044,99997,unsorted catch and debris,,,0,Y,1,,7.04
+768,19010044,99997,unsorted catch and debris,,,0,Y,1,,15.8
+769,19010044,99997,unsorted catch and debris,,,0,Y,1,,16.36
+770,19010044,99997,unsorted catch and debris,,,0,Y,1,,13.5
+771,19010044,99997,unsorted catch and debris,,,0,Y,1,,9.0
+772,19010044,99997,unsorted catch and debris,,,0,Y,1,,15.66
+773,19010044,99997,unsorted catch and debris,,,0,Y,1,,11.46
+774,19010044,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.554
+775,19010044,10001,flatfish unident.,Order Pleuronectiformes,,0,N,2,,0.004
+776,19010045,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.76
+777,19010045,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,18,2.92
+778,19010045,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,8,0.045
+779,19010045,421,Raja binoculata egg case,Raja binoculata egg case,,-1,Y,1,9,1.9
+780,19010045,421,Raja binoculata egg case,Raja binoculata egg case,,-1,Y,1,25,17.6
+781,19010045,421,Raja binoculata egg case,Raja binoculata egg case,,-1,Y,1,16,6.74
+782,19010045,421,Raja binoculata egg case,Raja binoculata egg case,,-1,Y,1,49,11.72
+783,19010045,421,Raja binoculata egg case,Raja binoculata egg case,,-1,Y,1,17,4.88
+784,19010045,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,1.69
+785,19010045,99997,unsorted catch and debris,,,0,Y,1,,4.28
+786,19010045,99997,unsorted catch and debris,,,0,Y,1,,13.28
+787,19010045,99997,unsorted catch and debris,,,0,Y,1,,7.6
+788,19010045,99997,unsorted catch and debris,,,0,Y,1,,13.54
+789,19010045,99997,unsorted catch and debris,,,0,Y,1,,10.5
+790,19010045,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,1.155
+791,19010045,99993,empty bivalve shells,,,0,N,2,,0.084
+792,19010045,20006,sawback poacher,Leptagonus frenatus,,0,N,2,1,0.003
+793,19010045,69010,hermit crab unident.,Family Paguridae,,0,N,2,1,0.004
+794,19010045,72751,lyre buccinum (or sinuous whelk),Buccinum plectrum,,0,N,2,1,0.009
+795,19010046,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.080
+796,19010046,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,4,0.759
+797,19010046,99997,unsorted catch and debris,,,0,Y,1,,13.16
+798,19010046,99997,unsorted catch and debris,,,0,Y,1,,12.6
+799,19010046,99997,unsorted catch and debris,,,0,Y,1,,14.26
+800,19010046,99997,unsorted catch and debris,,,0,Y,1,,13.86
+801,19010046,99997,unsorted catch and debris,,,0,Y,1,,13.16
+802,19010046,99997,unsorted catch and debris,,,0,Y,1,,11.72
+803,19010046,99997,unsorted catch and debris,,,0,Y,1,,8.38
+804,19010046,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,5.024
+805,19010046,10001,flatfish unident.,Order Pleuronectiformes,,0,N,2,2,0.001
+806,19010046,66575,common argid,Argis alaskensis,,0,N,2,1,0.002
+807,19010047,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,6,1.152
+808,19010047,99997,unsorted catch and debris,,,0,Y,1,,16.6
+809,19010047,99997,unsorted catch and debris,,,0,Y,1,,9.26
+810,19010047,99997,unsorted catch and debris,,,0,Y,1,,16.06
+811,19010047,99997,unsorted catch and debris,,,0,Y,1,,17.56
+812,19010047,99997,unsorted catch and debris,,,0,Y,1,,8.7
+813,19010047,99997,unsorted catch and debris,,,0,Y,1,,11.30
+814,19010047,99997,unsorted catch and debris,,,0,Y,1,,16.86
+815,19010047,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,5.82
+816,19010047,69035,Pagurus sp.,Pagurus sp.,,0,N,2,1,0.012
+817,19010047,10200,rex sole,Glyptocephalus zachirus,,0,N,2,1,0.013
+1411,19010048,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,7,1.54
+818,19010049,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,1,0.075
+819,19010049,420,big skate,Raja binoculata,,-1,Y,1,1,0.288
+820,19010049,420,big skate,Raja binoculata,,-1,Y,1,1,0.48
+821,19010049,99997,unsorted catch and debris,,,0,Y,1,,11.0
+822,19010049,99997,unsorted catch and debris,,,0,Y,1,,15.14
+823,19010049,99997,unsorted catch and debris,,,0,Y,1,,11.68
+824,19010049,99997,unsorted catch and debris,,,0,Y,1,,11.0
+825,19010049,99997,unsorted catch and debris,,,0,Y,1,,15.15
+826,19010049,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.280
+827,19010049,42017,orange sea pen,Ptilosarcus gurneyi,,0,N,2,5,0.132
+828,19010049,99993,empty bivalve shells,,,0,N,2,,0.163
+829,19010049,421,Raja binoculata egg case,Raja binoculata egg case,,0,N,2,1,0.265
+830,19010049,80810,Leafy Flat star,Luidia foliolata,,0,N,2,2,0.267
+831,19010049,10001,flatfish unident.,Order Pleuronectiformes,,0,N,2,1,0.006
+832,19010049,99999,natural debris,,,0,N,2,,0.031
+833,19010050,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.391
+834,19010050,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,29,4.660
+835,19010050,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.291
+836,19010050,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,1.044
+837,19010050,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,77,2.653
+838,19010050,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,2,0.04
+839,19010050,99997,unsorted catch and debris,,,0,Y,1,,16.48
+840,19010050,99997,unsorted catch and debris,,,0,Y,1,,13.60
+841,19010050,99997,unsorted catch and debris,,,0,Y,1,,10.0
+842,19010050,99997,unsorted catch and debris,,,0,Y,1,,14.54
+843,19010050,99997,unsorted catch and debris,,,0,Y,1,,16.22
+844,19010050,99997,unsorted catch and debris,,,0,Y,1,,10.76
+845,19010050,99997,unsorted catch and debris,,,0,Y,1,,14.32
+846,19010050,99997,unsorted catch and debris,,,0,Y,1,,12.04
+847,19010050,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.874
+848,19010050,10200,rex sole,Glyptocephalus zachirus,,0,N,2,1,0.014
+849,19010051,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.415
+850,19010051,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,93,13.82
+851,19010051,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,36,4.86
+852,19010051,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,1,0.132
+853,19010051,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,5,0.686
+854,19010051,99997,unsorted catch and debris,,,0,Y,1,,9.56
+855,19010051,99997,unsorted catch and debris,,,0,Y,1,,11.80
+856,19010051,99997,unsorted catch and debris,,,0,Y,1,,13.52
+857,19010051,99997,unsorted catch and debris,,,0,Y,1,,10.26
+858,19010051,99997,unsorted catch and debris,,,0,Y,1,,12.24
+859,19010051,99997,unsorted catch and debris,,,0,Y,1,,12.16
+860,19010051,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.338
+861,19010051,421,Raja binoculata egg case,Raja binoculata egg case,,0,N,2,1,0.28
+862,19010051,50192,bristle worm,Aphrodita negligens,,0,N,2,1,0.026
+863,19010051,99999,natural debris,,,0,N,2,,0.07
+864,19010051,71535,Aleutian moonsnail,Cryptonatica (=Natica) aleutica,,0,N,2,1,0.002
+865,19010052,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.884
+866,19010052,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,5,0.794
+867,19010052,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,5,0.145
+868,19010052,99997,unsorted catch and debris,,,0,Y,1,,9.44
+869,19010052,99997,unsorted catch and debris,,,0,Y,1,,17.30
+870,19010052,99997,unsorted catch and debris,,,0,Y,1,,13.5
+871,19010052,99997,unsorted catch and debris,,,0,Y,1,,18.50
+872,19010052,99997,unsorted catch and debris,,,0,Y,1,,17.36
+873,19010052,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.750
+874,19010052,81780,common mud star,Ctenodiscus crispatus,,0,N,2,,0.016
+875,19010052,99993,empty bivalve shells,,,0,N,2,,0.006
+876,19010053,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.183
+877,19010053,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,13,2.312
+878,19010053,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.674
+879,19010053,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,6,0.254
+880,19010053,99997,unsorted catch and debris,,,0,Y,1,,12.28
+881,19010053,99997,unsorted catch and debris,,,0,Y,1,,16.44
+882,19010053,99997,unsorted catch and debris,,,0,Y,1,,14.66
+883,19010053,99997,unsorted catch and debris,,,0,Y,1,,14.58
+884,19010053,99997,unsorted catch and debris,,,0,Y,1,,14.6
+885,19010053,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.551
+886,19010053,69010,hermit crab unident.,Family Paguridae,,0,N,2,,0.004
+887,19010053,71580,pale moonsnail,Polinices pallidus,,0,N,2,,0.004
+888,19010053,10220,starry flounder,Platichthys stellatus,,0,N,2,,0.076
+889,19010054,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.224
+890,19010054,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,3.456
+891,19010054,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,25,2.99
+892,19010054,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,8,0.407
+893,19010054,440,longnose skate,Raja rhina,,-1,Y,1,1,5.88
+894,19010054,435,Bering skate,Bathyraja interrupta,,-1,Y,1,1,0.28
+895,19010054,99997,unsorted catch and debris,,,0,Y,1,,12.38
+896,19010054,99997,unsorted catch and debris,,,0,Y,1,,14.02
+897,19010054,99997,unsorted catch and debris,,,0,Y,1,,11.30
+898,19010054,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.350
+899,19010054,66575,common argid,Argis alaskensis,,0,N,2,3,0.003
+900,19010054,66770,Pacific glass shrimp,Pasiphaea pacifica,,0,N,2,5,0.003
+901,19010054,66031,pink shrimp (or northern shrimp),Pandalus borealis,,0,N,2,2,0.006
+902,19010054,99999,natural debris,,,0,N,2,,0.023
+903,19010054,81780,common mud star,Ctenodiscus crispatus,,0,N,2,2,0.017
+904,19010054,50192,bristle worm,Aphrodita negligens,,0,N,2,2,0.055
+905,19010054,82675,heart urchin,Brisaster latifrons,,0,N,2,2,0.072
+906,19010054,99993,empty bivalve shells,,,0,N,2,,0.029
+907,19010055,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,1,0.206
+908,19010055,99997,unsorted catch and debris,,,0,Y,1,,15.36
+909,19010055,99997,unsorted catch and debris,,,0,Y,1,,11.0
+910,19010055,99997,unsorted catch and debris,,,0,Y,1,,13.74
+911,19010055,99997,unsorted catch and debris,,,0,Y,1,,16.60
+912,19010055,99997,unsorted catch and debris,,,0,Y,1,,18.64
+913,19010055,99997,unsorted catch and debris,,,0,Y,1,,14.82
+914,19010055,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.622
+915,19010055,71535,Aleutian moonsnail,Cryptonatica (=Natica) aleutica,,0,N,2,1,0.004
+916,19010055,99993,empty bivalve shells,,,0,N,2,,0.038
+1412,19010056,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,102,22.54
+1413,19010056,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,73,17.89
+1414,19010056,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,90,20.82
+1415,19010056,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,83,17.34
+1416,19010056,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,9,1.732
+917,19010057,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.295
+918,19010057,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,4,0.773
+919,19010057,99997,unsorted catch and debris,,,0,Y,1,,12.82
+920,19010057,99997,unsorted catch and debris,,,0,Y,1,,14.7
+921,19010057,99997,unsorted catch and debris,,,0,Y,1,,9.8
+922,19010057,99997,unsorted catch and debris,,,0,Y,1,,15.9
+923,19010057,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.746
+924,19010057,99993,empty bivalve shells,,,0,N,2,,0.582
+925,19010058,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.396
+926,19010058,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,4.156
+927,19010058,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,51,6.40
+928,19010058,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,7,0.226
+929,19010058,99997,unsorted catch and debris,,,0,Y,1,,9.92
+930,19010058,99997,unsorted catch and debris,,,0,Y,1,,19.42
+931,19010058,99997,unsorted catch and debris,,,0,Y,1,,16.98
+932,19010058,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.04
+933,19010058,99993,empty bivalve shells,,,0,N,2,,0.208
+934,19010058,99999,natural debris,,,0,N,2,,0.081
+935,19010058,81780,common mud star,Ctenodiscus crispatus,,0,N,2,,0.006
+936,19010058,69010,hermit crab unident.,Family Paguridae,,0,N,2,3,0.007
+937,19010058,80170,Stylasterias forreri,Stylasterias forreri,,0,N,2,1,0.019
+938,19010059,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.118
+939,19010059,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,24,4.860
+940,19010059,99997,unsorted catch and debris,,,0,Y,1,,13.98
+941,19010059,99997,unsorted catch and debris,,,0,Y,1,,16.66
+942,19010059,99997,unsorted catch and debris,,,0,Y,1,,14.6
+943,19010059,99997,unsorted catch and debris,,,0,Y,1,,7.06
+944,19010059,99997,unsorted catch and debris,,,0,Y,1,,16.40
+945,19010059,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.453
+946,19010059,99993,empty bivalve shells,,,0,N,2,,0.268
+947,19010059,99999,natural debris,,,0,N,2,,0.80
+948,19010059,23850,whitebarred prickleback,Poroclinus rothrocki,,0,N,2,1,0.008
+949,19010059,69010,hermit crab unident.,Family Paguridae,,0,N,2,3,0.012
+952,19010060,99997,unsorted catch and debris,,,0,Y,1,,16.42
+953,19010060,99997,unsorted catch and debris,,,0,Y,1,,14.62
+954,19010060,99997,unsorted catch and debris,,,0,Y,1,,11.52
+955,19010060,99997,unsorted catch and debris,,,0,Y,1,,19.00
+956,19010060,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.990
+957,19010060,99993,empty bivalve shells,,,0,N,2,,0.061
+958,19010060,66575,common argid,Argis alaskensis,,0,N,2,,0.012
+2222,19010060,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,1,0.001
+959,19010061,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,4,1.020
+960,19010061,99997,unsorted catch and debris,,,0,Y,1,,12.64
+961,19010061,99997,unsorted catch and debris,,,0,Y,1,,12.60
+962,19010061,99997,unsorted catch and debris,,,0,Y,1,,15.86
+963,19010061,99997,unsorted catch and debris,,,0,Y,1,,6.08
+964,19010061,99997,unsorted catch and debris,,,0,Y,1,,5.54
+965,19010061,99997,unsorted catch and debris,,,0,Y,1,,15.5
+966,19010061,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,5.666
+967,19010061,99993,empty bivalve shells,,,0,N,2,,0.228
+968,19010061,69010,hermit crab unident.,Family Paguridae,,0,N,2,,0.011
+969,19010061,50192,bristle worm,Aphrodita negligens,,0,N,2,,0.030
+970,19010062,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.662
+971,19010062,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,9,1.328
+972,19010062,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,9,0.510
+973,19010062,99997,unsorted catch and debris,,,0,Y,1,,12.92
+974,19010062,99997,unsorted catch and debris,,,0,Y,1,,12.32
+975,19010062,99997,unsorted catch and debris,,,0,Y,1,,9.22
+976,19010062,99997,unsorted catch and debris,,,0,Y,1,,13.48
+977,19010062,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.862
+978,19010062,99999,natural debris,,,0,N,2,,0.099
+979,19010062,99993,empty bivalve shells,,,0,N,2,,0.565
+980,19010062,80810,Leafy Flat star,Luidia foliolata,,0,N,2,1,0.145
+981,19010062,66530,ridged crangon,Crangon dalli,,0,N,2,2,0.004
+982,19010063,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.797
+983,19010063,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,7,1.323
+984,19010063,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.458
+985,19010063,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,1,0.023
+986,19010063,99997,unsorted catch and debris,,,0,Y,1,,10.88
+987,19010063,99997,unsorted catch and debris,,,0,Y,1,,13.48
+988,19010063,99997,unsorted catch and debris,,,0,Y,1,,10.48
+989,19010063,99997,unsorted catch and debris,,,0,Y,1,,8.52
+990,19010063,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.725
+991,19010063,99993,empty bivalve shells,,,0,N,2,,0.469
+992,19010063,20006,sawback poacher,Leptagonus frenatus,,0,N,2,,0.007
+1417,19010064,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,42,6.64
+1418,19010064,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,63,11.22
+1419,19010064,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,35,3.76
+993,19010065,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.122
+994,19010065,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,25,5.620
+995,19010065,99997,unsorted catch and debris,,,0,Y,1,,12.18
+996,19010065,99997,unsorted catch and debris,,,0,Y,1,,13.64
+997,19010065,99997,unsorted catch and debris,,,0,Y,1,,10.50
+998,19010065,99997,unsorted catch and debris,,,0,Y,1,,14.10
+999,19010065,99997,unsorted catch and debris,,,0,Y,1,,11.76
+1000,19010065,99997,unsorted catch and debris,,,0,Y,1,,5.78
+1001,19010065,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.670
+1002,19010065,99993,empty bivalve shells,,,0,N,2,,0.092
+1003,19010065,69010,hermit crab unident.,Family Paguridae,,0,N,2,3,0.022
+1004,19010065,75385,Pandora sp.,Pandora sp.,,0,N,2,1,0.008
+1005,19010066,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.394
+1006,19010066,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,15,3.04
+1007,19010066,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,6.24
+1008,19010066,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,5,0.065
+1009,19010066,421,Raja binoculata egg case,Raja binoculata egg case,,-1,Y,1,1,0.410
+1010,19010066,99997,unsorted catch and debris,,,0,Y,1,,13.84
+1011,19010066,99997,unsorted catch and debris,,,0,Y,1,,14.6
+1012,19010066,99997,unsorted catch and debris,,,0,Y,1,,16.38
+1013,19010066,99997,unsorted catch and debris,,,0,Y,1,,14.02
+1014,19010066,99997,unsorted catch and debris,,,0,Y,1,,13.40
+1015,19010066,99997,unsorted catch and debris,,,0,Y,1,,13.9
+1016,19010066,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.772
+1017,19010066,99993,empty bivalve shells,,,0,N,2,,0.064
+1018,19010066,69010,hermit crab unident.,Family Paguridae,,0,N,2,,0.001
+1019,19010066,50192,bristle worm,Aphrodita negligens,,0,N,2,,0.004
+1020,19010066,56311,giant scale worm,Eunoe nodosa,,0,N,2,,0.001
+1021,19010067,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.955
+1022,19010067,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,9,1.538
+1023,19010067,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,6,0.219
+1024,19010067,99997,unsorted catch and debris,,,0,Y,1,,11.62
+1025,19010067,99997,unsorted catch and debris,,,0,Y,1,,16.40
+1026,19010067,99997,unsorted catch and debris,,,0,Y,1,,14.64
+1027,19010067,99997,unsorted catch and debris,,,0,Y,1,,16.02
+1028,19010067,99997,unsorted catch and debris,,,0,Y,1,,8.0
+1029,19010067,99997,unsorted catch and debris,,,0,Y,1,,13.3
+1030,19010067,99997,unsorted catch and debris,,,0,Y,1,,15.38
+1031,19010067,99993,empty bivalve shells,,,0,N,2,,0.022
+1032,19010067,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.832
+1033,19010067,42017,orange sea pen,Ptilosarcus gurneyi,,0,N,2,1,0.075
+442,19010068,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.184
+443,19010068,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,14,3.22
+444,19010068,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,6.16
+445,19010068,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,3,0.073
+446,19010068,421,Raja binoculata egg case,Raja binoculata egg case,,-1,Y,1,1,0.30
+447,19010068,99997,unsorted catch and debris,,,0,Y,1,,12.14
+448,19010068,99997,unsorted catch and debris,,,0,Y,1,,10.3
+449,19010068,99997,unsorted catch and debris,,,0,Y,1,,8.1
+450,19010068,99997,unsorted catch and debris,,,0,Y,1,,8.0
+451,19010068,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.822
+452,19010068,81780,common mud star,Ctenodiscus crispatus,,0,N,2,30,0.260
+453,19010068,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,4,0.097
+454,19010068,71535,Aleutian moonsnail,Cryptonatica (=Natica) aleutica,,0,N,2,2,0.014
+455,19010068,69010,hermit crab unident.,Family Paguridae,,0,N,2,1,0.009
+456,19010068,74414,Yoldia sp.,Yoldia sp.,,0,N,2,8,0.011
+457,19010068,99993,empty bivalve shells,,,0,N,2,,0.012
+458,19010068,50192,bristle worm,Aphrodita negligens,,0,N,2,1,0.018
+459,19010069,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.602
+460,19010069,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,9,1.597
+461,19010069,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,6,0.213
+462,19010069,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,0.494
+463,19010069,99997,unsorted catch and debris,,,0,Y,1,,8.10
+464,19010069,99997,unsorted catch and debris,,,0,Y,1,,10.6
+465,19010069,99997,unsorted catch and debris,,,0,Y,1,,11.8
+466,19010069,99997,unsorted catch and debris,,,0,Y,1,,19.92
+467,19010069,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.750
+468,19010069,99993,empty bivalve shells,,,0,N,2,,0.005
+469,19010069,50192,bristle worm,Aphrodita negligens,,0,N,2,1,0.016
+470,19010069,74414,Yoldia sp.,Yoldia sp.,,0,N,2,1,0.001
+471,19010070,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,3,0.425
+472,19010070,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,4,0.110
+473,19010070,421,Raja binoculata egg case,Raja binoculata egg case,,-1,Y,1,4,1.66
+474,19010070,402,Bathyraja sp. egg case,Bathyraja sp. egg case,,-1,Y,1,2,0.3
+475,19010070,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,2,2.30
+476,19010070,99997,unsorted catch and debris,,,0,Y,1,,15.52
+477,19010070,99997,unsorted catch and debris,,,0,Y,1,,11.12
+478,19010070,99997,unsorted catch and debris,,,0,Y,1,,13.10
+479,19010070,99997,unsorted catch and debris,,,0,Y,1,,11.98
+480,19010070,99997,unsorted catch and debris,,,0,Y,1,,12.34
+481,19010070,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.118
+482,19010070,99999,natural debris,,,0,N,2,,0.625
+483,19010070,99993,empty bivalve shells,,,0,N,2,,0.044
+484,19010070,68578,Pacific lyre crab,Hyas lyratus,,0,N,2,,0.017
+485,19010070,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,,0.026
+486,19010070,69010,hermit crab unident.,Family Paguridae,,0,N,2,,0.008
+487,19010071,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.682
+488,19010071,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,6,1.037
+489,19010071,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,4,0.058
+491,19010071,99997,unsorted catch and debris,,,0,Y,1,,14.82
+492,19010071,99997,unsorted catch and debris,,,0,Y,1,,9.64
+493,19010071,99997,unsorted catch and debris,,,0,Y,1,,13.98
+494,19010071,99997,unsorted catch and debris,,,0,Y,1,,15.32
+495,19010071,99993,empty bivalve shells,,,0,N,2,,0.071
+496,19010071,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,5.090
+497,19010071,10130,flathead sole,Hippoglossoides elassodon,,0,N,2,1,0.202
+498,19010071,75385,Pandora sp.,Pandora sp.,,0,N,2,1,0.005
+950,19010071,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,,1.826
+951,19010071,421,Raja binoculata egg case,Raja binoculata egg case,,-1,Y,1,,0.426
+1420,19010072,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,91,15.78
+1421,19010072,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,79,14.4
+1422,19010072,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,103,18.98
+1423,19010072,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,57,5.8
+1034,19010073,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.204
+1035,19010073,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,27,5.78
+1036,19010073,99997,unsorted catch and debris,,,0,Y,1,,14.28
+1037,19010073,99997,unsorted catch and debris,,,0,Y,1,,13.88
+1038,19010073,99997,unsorted catch and debris,,,0,Y,1,,12.72
+1039,19010073,99997,unsorted catch and debris,,,0,Y,1,,13.28
+1040,19010073,99997,unsorted catch and debris,,,0,Y,1,,11.96
+1041,19010073,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.814
+1042,19010073,81780,common mud star,Ctenodiscus crispatus,,0,N,2,15,0.094
+1043,19010073,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,1,0.009
+1044,19010073,99999,natural debris,,,0,N,2,,0.018
+1045,19010074,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.757
+1046,19010074,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,5.534
+1047,19010074,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,47,8.58
+1048,19010074,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.560
+1049,19010074,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,0.60
+1050,19010074,99997,unsorted catch and debris,,,0,Y,1,,11.94
+1051,19010074,99997,unsorted catch and debris,,,0,Y,1,,12.38
+1052,19010074,99997,unsorted catch and debris,,,0,Y,1,,4.38
+1053,19010074,99997,unsorted catch and debris,,,0,Y,1,,14.10
+1054,19010074,99997,unsorted catch and debris,,,0,Y,1,,15.74
+1055,19010074,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.920
+1056,19010074,99993,empty bivalve shells,,,0,N,2,,0.029
+1057,19010074,99999,natural debris,,,0,N,2,,0.007
+1058,19010074,81780,common mud star,Ctenodiscus crispatus,,0,N,2,2,0.007
+1059,19010074,74414,Yoldia sp.,Yoldia sp.,,0,N,2,1,0.002
+1060,19010074,69010,hermit crab unident.,Family Paguridae,,0,N,2,1,0.007
+1061,19010075,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.943
+1062,19010075,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,6.80
+1063,19010075,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,47,9.26
+1064,19010075,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,0.483
+1065,19010075,99997,unsorted catch and debris,,,0,Y,1,,10.96
+1066,19010075,99997,unsorted catch and debris,,,0,Y,1,,11.22
+1067,19010075,99997,unsorted catch and debris,,,0,Y,1,,17.94
+1068,19010075,99997,unsorted catch and debris,,,0,Y,1,,10.96
+1069,19010075,99997,unsorted catch and debris,,,0,Y,1,,12.14
+1070,19010075,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,5.092
+1071,19010075,81780,common mud star,Ctenodiscus crispatus,,0,N,2,7,0.058
+1072,19010075,74414,Yoldia sp.,Yoldia sp.,,0,N,2,3,0.002
+1073,19010075,71535,Aleutian moonsnail,Cryptonatica (=Natica) aleutica,,0,N,2,1,0.004
+1074,19010075,99993,empty bivalve shells,,,0,N,2,,0.016
+1075,19010076,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.920
+1076,19010076,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,6,1.168
+1077,19010076,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,1,0.084
+1078,19010076,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,0.968
+1079,19010076,99997,unsorted catch and debris,,,0,Y,1,,11.64
+1080,19010076,99997,unsorted catch and debris,,,0,Y,1,,12.02
+1081,19010076,99997,unsorted catch and debris,,,0,Y,1,,14.00
+1082,19010076,99997,unsorted catch and debris,,,0,Y,1,,14.16
+1083,19010076,99997,unsorted catch and debris,,,0,Y,1,,10.70
+1084,19010076,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,5.360
+1085,19010076,10261,northern rock sole,Lepidopsetta polyxystra,,0,N,2,1,0.172
+1086,19010076,74414,Yoldia sp.,Yoldia sp.,,0,N,2,6,0.006
+1087,19010076,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,1,0.021
+1088,19010076,66031,pink shrimp (or northern shrimp),Pandalus borealis,,0,N,2,1,0.001
+1089,19010076,85120,sweet sea potato,Molpadia intermedia,,0,N,2,1,0.025
+1090,19010077,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.809
+1091,19010077,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,7,1.225
+1092,19010077,99997,unsorted catch and debris,,,0,Y,1,,13.94
+1093,19010077,99997,unsorted catch and debris,,,0,Y,1,,14.82
+1094,19010077,99997,unsorted catch and debris,,,0,Y,1,,9.96
+1095,19010077,99997,unsorted catch and debris,,,0,Y,1,,12.48
+1096,19010077,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.136
+1097,19010077,74414,Yoldia sp.,Yoldia sp.,,0,N,2,7,0.008
+1098,19010077,81780,common mud star,Ctenodiscus crispatus,,0,N,2,3,0.016
+1099,19010077,23850,whitebarred prickleback,Poroclinus rothrocki,,0,N,2,1,0.003
+1100,19010077,82675,heart urchin,Brisaster latifrons,,0,N,2,1,0.030
+1101,19010077,66530,ridged crangon,Crangon dalli,,0,N,2,1,0.002
+1102,19010078,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,2,0.415
+1103,19010078,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,1,0.019
+1104,19010078,440,longnose skate,Raja rhina,,-1,Y,1,1,0.909
+1105,19010078,99997,unsorted catch and debris,,,0,Y,1,,13.92
+1106,19010078,99997,unsorted catch and debris,,,0,Y,1,,10.82
+1107,19010078,99997,unsorted catch and debris,,,0,Y,1,,10.14
+1108,19010078,99997,unsorted catch and debris,,,0,Y,1,,10.76
+1109,19010078,99997,unsorted catch and debris,,,0,Y,1,,15.24
+1110,19010078,56312,depressed scale worm,Eunoe depressa,,0,N,2,2,0.001
+1111,19010078,74983,hairy cockle,Clinocardium ciliatum,,0,N,2,1,0.004
+1112,19010078,54030,Cheilonereis cyclurus,Cheilonereis cyclurus,,0,N,2,1,0.005
+1113,19010078,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.604
+1114,19010079,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,6,1.355
+1115,19010079,421,Raja binoculata egg case,Raja binoculata egg case,,-1,Y,1,1,0.487
+1116,19010079,99997,unsorted catch and debris,,,0,Y,1,,12.3
+1117,19010079,99997,unsorted catch and debris,,,0,Y,1,,13.68
+1118,19010079,99997,unsorted catch and debris,,,0,Y,1,,12.84
+1119,19010079,99997,unsorted catch and debris,,,0,Y,1,,12.86
+1120,19010079,99997,unsorted catch and debris,,,0,Y,1,,10.96
+1121,19010079,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.308
+1122,19010079,74414,Yoldia sp.,Yoldia sp.,,0,N,2,3,0.003
+1123,19010079,81780,common mud star,Ctenodiscus crispatus,,0,N,2,1,0.004
+1424,19010080,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,52,10.9
+1425,19010080,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,12,1.54
+1124,19010081,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,1,0.086
+1125,19010081,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,1,0.053
+1126,19010081,99997,unsorted catch and debris,,,0,Y,1,,15.16
+1127,19010081,99997,unsorted catch and debris,,,0,Y,1,,14.6
+1128,19010081,99997,unsorted catch and debris,,,0,Y,1,,12.0
+1129,19010081,99997,unsorted catch and debris,,,0,Y,1,,15.4
+1130,19010081,99997,unsorted catch and debris,,,0,Y,1,,14.7
+1131,19010081,99997,unsorted catch and debris,,,0,Y,1,,7.0
+1132,19010081,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,5.394
+1133,19010081,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,1,0.016
+1134,19010081,74414,Yoldia sp.,Yoldia sp.,,0,N,2,2,0.001
+1135,19010081,75222,bilirate pandora,Pandora bilirata,,0,N,2,6,0.001
+1136,19010081,74983,hairy cockle,Clinocardium ciliatum,,0,N,2,2,0.004
+1137,19010081,56312,depressed scale worm,Eunoe depressa,,0,N,2,1,0.001
+1138,19010082,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.834
+1139,19010082,99997,unsorted catch and debris,,,0,Y,1,,12.0
+1140,19010082,99997,unsorted catch and debris,,,0,Y,1,,8.5
+1141,19010082,99997,unsorted catch and debris,,,0,Y,1,,14.8
+1142,19010082,99997,unsorted catch and debris,,,0,Y,1,,10.9
+1143,19010082,99997,unsorted catch and debris,,,0,Y,1,,12.82
+1144,19010082,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.650
+1145,19010082,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,1,0.006
+1146,19010082,54030,Cheilonereis cyclurus,Cheilonereis cyclurus,,0,N,2,1,0.006
+1147,19010082,50192,bristle worm,Aphrodita negligens,,0,N,2,1,0.010
+1148,19010082,66031,pink shrimp (or northern shrimp),Pandalus borealis,,0,N,2,1,0.008
+1149,19010082,81780,common mud star,Ctenodiscus crispatus,,0,N,2,2,0.016
+1150,19010082,99999,natural debris,,,0,N,2,,0.010
+1151,19010082,71535,Aleutian moonsnail,Cryptonatica (=Natica) aleutica,,0,N,2,1,0.002
+1152,19010082,74414,Yoldia sp.,Yoldia sp.,,0,N,2,2,0.001
+2223,19010082,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.791
+1153,19010083,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,8,1.33
+1154,19010083,99997,unsorted catch and debris,,,0,Y,1,,15.50
+1155,19010083,99997,unsorted catch and debris,,,0,Y,1,,13.12
+1156,19010083,99997,unsorted catch and debris,,,0,Y,1,,12.50
+1157,19010083,99997,unsorted catch and debris,,,0,Y,1,,8.2
+1158,19010083,99997,unsorted catch and debris,,,0,Y,1,,13.0
+1159,19010083,99997,unsorted catch and debris,,,0,Y,1,,16.3
+1160,19010083,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.398
+1161,19010083,80810,Leafy Flat star,Luidia foliolata,,0,N,2,1,0.107
+1162,19010083,85120,sweet sea potato,Molpadia intermedia,,0,N,2,1,0.010
+1163,19010083,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,1,0.035
+1164,19010083,74983,hairy cockle,Clinocardium ciliatum,,0,N,2,1,0.004
+1165,19010083,50192,bristle worm,Aphrodita negligens,,0,N,2,1,0.001
+1166,19010083,74435,Nuculana sp.,Nuculana sp.,,0,N,2,6,0.001
+1167,19010084,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.681
+1168,19010084,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,21,4.264
+1169,19010084,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,4,0.176
+1170,19010084,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,0.887
+1171,19010084,402,Bathyraja sp. egg case,Bathyraja sp. egg case,,-1,Y,1,1,0.068
+1172,19010084,99997,unsorted catch and debris,,,0,Y,1,,10.7
+1173,19010084,99997,unsorted catch and debris,,,0,Y,1,,13.0
+1174,19010084,99997,unsorted catch and debris,,,0,Y,1,,15.4
+1175,19010084,99997,unsorted catch and debris,,,0,Y,1,,8.86
+1176,19010084,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.172
+1177,19010084,80810,Leafy Flat star,Luidia foliolata,,0,N,2,1,0.220
+1178,19010084,81780,common mud star,Ctenodiscus crispatus,,0,N,2,37,0.202
+1179,19010084,74419,broad yoldia,Yoldia thraciaeformis,,0,N,2,1,0.001
+1180,19010084,74435,Nuculana sp.,Nuculana sp.,,0,N,2,3,0.002
+1181,19010084,72740,Buccinum snail unident.,Buccinum sp.,,0,N,2,3,0.030
+1182,19010084,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,3,0.056
+1183,19010084,82675,heart urchin,Brisaster latifrons,,0,N,2,1,0.026
+1184,19010084,50192,bristle worm,Aphrodita negligens,,0,N,2,2,0.048
+1185,19010084,74983,hairy cockle,Clinocardium ciliatum,,0,N,2,1,0.002
+1186,19010085,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.143
+1187,19010085,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,3,0.253
+1188,19010085,440,longnose skate,Raja rhina,,-1,Y,1,1,6.48
+1189,19010085,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,0.173
+1190,19010085,99997,unsorted catch and debris,,,0,Y,1,,11.0
+1191,19010085,99997,unsorted catch and debris,,,0,Y,1,,10.30
+1192,19010085,99997,unsorted catch and debris,,,0,Y,1,,8.66
+1193,19010085,99997,unsorted catch and debris,,,0,Y,1,,11.28
+1194,19010085,99997,unsorted catch and debris,,,0,Y,1,,12.24
+1195,19010085,99997,unsorted catch and debris,,,0,Y,1,,10.04
+1196,19010085,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.040
+1197,19010085,99999,natural debris,,,0,N,2,,0.098
+1198,19010085,50192,bristle worm,Aphrodita negligens,,0,N,2,1,0.018
+1199,19010085,54030,Cheilonereis cyclurus,Cheilonereis cyclurus,,0,N,2,1,0.002
+1200,19010085,85120,sweet sea potato,Molpadia intermedia,,0,N,2,1,0.001
+1201,19010085,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,1,0.024
+1202,19010085,74419,broad yoldia,Yoldia thraciaeformis,,0,N,2,4,0.004
+1203,19010085,81780,common mud star,Ctenodiscus crispatus,,0,N,2,5,0.038
+1204,19010085,71535,Aleutian moonsnail,Cryptonatica (=Natica) aleutica,,0,N,2,1,0.002
+2232,19010085,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,26,5.373
+1205,19010086,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.855
+1206,19010086,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,4,0.683
+1207,19010086,420,big skate,Raja binoculata,,-1,Y,1,2,0.865
+1208,19010086,99997,unsorted catch and debris,,,0,Y,1,,7.60
+1209,19010086,99997,unsorted catch and debris,,,0,Y,1,,16.32
+1210,19010086,99997,unsorted catch and debris,,,0,Y,1,,12.80
+1211,19010086,99997,unsorted catch and debris,,,0,Y,1,,13.86
+1212,19010086,99997,unsorted catch and debris,,,0,Y,1,,11.64
+1213,19010086,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.340
+1214,19010086,50192,bristle worm,Aphrodita negligens,,0,N,2,1,0.020
+1215,19010086,81780,common mud star,Ctenodiscus crispatus,,0,N,2,1,0.001
+1216,19010086,75222,bilirate pandora,Pandora bilirata,,0,N,2,35,0.010
+1217,19010086,74419,broad yoldia,Yoldia thraciaeformis,,0,N,2,3,0.003
+1218,19010086,72740,Buccinum snail unident.,Buccinum sp.,,0,N,2,2,0.011
+1219,19010086,69010,hermit crab unident.,Family Paguridae,,0,N,2,1,0.006
+1220,19010087,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.781
+1221,19010087,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,5,0.332
+1222,19010087,99997,unsorted catch and debris,,,0,Y,1,,10.42
+1223,19010087,99997,unsorted catch and debris,,,0,Y,1,,9.48
+1224,19010087,99997,unsorted catch and debris,,,0,Y,1,,9.08
+1225,19010087,99997,unsorted catch and debris,,,0,Y,1,,12.20
+1226,19010087,99997,unsorted catch and debris,,,0,Y,1,,12.44
+1227,19010087,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.672
+1228,19010087,80810,Leafy Flat star,Luidia foliolata,,0,N,2,1,0.654
+1229,19010087,81780,common mud star,Ctenodiscus crispatus,,0,N,2,1,0.001
+1230,19010087,66030,ocean shrimp,Pandalus jordani,,0,N,2,5,0.013
+1231,19010087,74435,Nuculana sp.,Nuculana sp.,,0,N,2,5,0.001
+1426,19010088,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,63,11.54
+1427,19010088,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,23,2.4
+1232,19010089,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,5,0.924
+1233,19010089,99997,unsorted catch and debris,,,0,Y,1,,13.12
+1234,19010089,99997,unsorted catch and debris,,,0,Y,1,,12.50
+1235,19010089,99997,unsorted catch and debris,,,0,Y,1,,3.98
+1236,19010089,99997,unsorted catch and debris,,,0,Y,1,,14.34
+1237,19010089,99997,unsorted catch and debris,,,0,Y,1,,9.20
+1238,19010089,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.748
+1239,19010089,80810,Leafy Flat star,Luidia foliolata,,0,N,2,1,0.080
+1240,19010089,99999,natural debris,,,0,N,2,,0.076
+1241,19010089,99993,empty bivalve shells,,,0,N,2,,0.006
+1242,19010089,74435,Nuculana sp.,Nuculana sp.,,0,N,2,4,0.002
+2224,19010089,402,Bathyraja sp. egg case,Bathyraja sp. egg case,,-1,Y,1,,0.184
+1243,19010090,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.496
+1244,19010090,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,4,0.262
+1245,19010090,99997,unsorted catch and debris,,,0,Y,1,,13.54
+1246,19010090,99997,unsorted catch and debris,,,0,Y,1,,12.74
+1247,19010090,99997,unsorted catch and debris,,,0,Y,1,,10.54
+1248,19010090,99997,unsorted catch and debris,,,0,Y,1,,16.38
+1249,19010090,99999,natural debris,,,0,Y,1,,1.5
+1250,19010090,99999,natural debris,,,0,Y,1,,7.64
+1251,19010090,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.030
+1252,19010090,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,1,0.014
+1253,19010090,74419,broad yoldia,Yoldia thraciaeformis,,0,N,2,1,0.003
+1254,19010090,81780,common mud star,Ctenodiscus crispatus,,0,N,2,1,0.001
+1255,19010090,50192,bristle worm,Aphrodita negligens,,0,N,2,1,0.006
+1256,19010090,66193,shortscale eualid,Eualus suckleyi,,0,N,2,1,0.002
+1257,19010090,74561,black mussel,Musculus niger,,0,N,2,1,0.008
+1258,19010090,23807,slender eelblenny,Lumpenus fabricii,,0,N,2,1,0.004
+1259,19010091,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.939
+1260,19010091,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,11,1.602
+1261,19010091,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.841
+1262,19010091,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,15,1.142
+1263,19010091,99997,unsorted catch and debris,,,0,Y,1,,9.58
+1264,19010091,99997,unsorted catch and debris,,,0,Y,1,,9.80
+1265,19010091,99997,unsorted catch and debris,,,0,Y,1,,14.02
+1266,19010091,99997,unsorted catch and debris,,,0,Y,1,,8.02
+1267,19010091,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.978
+1268,19010091,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,2,0.030
+1269,19010091,81780,common mud star,Ctenodiscus crispatus,,0,N,2,7,0.028
+1270,19010091,66530,ridged crangon,Crangon dalli,,0,N,2,1,0.004
+1271,19010091,74983,hairy cockle,Clinocardium ciliatum,,0,N,2,1,0.012
+1272,19010091,50192,bristle worm,Aphrodita negligens,,0,N,2,1,0.002
+1273,19010091,71535,Aleutian moonsnail,Cryptonatica (=Natica) aleutica,,0,N,2,1,0.002
+1274,19010091,20006,sawback poacher,Leptagonus frenatus,,0,N,2,1,0.004
+1275,19010091,66030,ocean shrimp,Pandalus jordani,,0,N,2,2,0.009
+1276,19010092,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.863
+1277,19010092,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.573
+1278,19010092,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,12,0.358
+1279,19010092,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,1.425
+1280,19010092,99997,unsorted catch and debris,,,0,Y,1,,10.6
+1281,19010092,99997,unsorted catch and debris,,,0,Y,1,,11.48
+1282,19010092,99997,unsorted catch and debris,,,0,Y,1,,11.48
+1283,19010092,99997,unsorted catch and debris,,,0,Y,1,,6.08
+1284,19010092,99997,unsorted catch and debris,,,0,Y,1,,9.92
+1285,19010092,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.438
+1286,19010092,10130,flathead sole,Hippoglossoides elassodon,,0,N,2,1,0.212
+1287,19010092,21394,tadpole sculpin,Psychrolutes paradoxus,,0,N,2,1,0.008
+1288,19010092,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,1,0.004
+1289,19010092,72740,Buccinum snail unident.,Buccinum sp.,,0,N,2,1,0.002
+1290,19010092,66030,ocean shrimp,Pandalus jordani,,0,N,2,6,0.032
+1291,19010092,71535,Aleutian moonsnail,Cryptonatica (=Natica) aleutica,,0,N,2,,0.003
+1292,19010092,81780,common mud star,Ctenodiscus crispatus,,0,N,2,62,0.329
+1293,19010092,66530,ridged crangon,Crangon dalli,,0,N,2,1,0.001
+1294,19010092,74435,Nuculana sp.,Nuculana sp.,,0,N,2,17,0.010
+1295,19010093,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.636
+1296,19010093,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,25,4.162
+1297,19010093,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.310
+1298,19010093,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,33,0.968
+1299,19010093,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,0.653
+1300,19010093,402,Bathyraja sp. egg case,Bathyraja sp. egg case,,-1,Y,1,1,1.105
+1301,19010093,99997,unsorted catch and debris,,,0,Y,1,,13.24
+1302,19010093,99997,unsorted catch and debris,,,0,Y,1,,12.04
+1303,19010093,99997,unsorted catch and debris,,,0,Y,1,,6.96
+1304,19010093,99997,unsorted catch and debris,,,0,Y,1,,10.02
+1305,19010093,99997,unsorted catch and debris,,,0,Y,1,,0.325
+1306,19010093,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.044
+1307,19010093,81780,common mud star,Ctenodiscus crispatus,,0,N,2,55,0.334
+1308,19010093,80810,Leafy Flat star,Luidia foliolata,,0,N,2,1,0.106
+1309,19010093,50192,bristle worm,Aphrodita negligens,,0,N,2,2,0.058
+1310,19010093,66030,ocean shrimp,Pandalus jordani,,0,N,2,5,0.032
+1311,19010093,74983,hairy cockle,Clinocardium ciliatum,,0,N,2,1,0.028
+1312,19010093,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,1,0.012
+1313,19010093,23010,eulachon,Thaleichthys pacificus,,0,N,2,1,0.016
+1314,19010093,21394,tadpole sculpin,Psychrolutes paradoxus,,0,N,2,1,0.016
+1315,19010093,10001,flatfish unident.,Order Pleuronectiformes,,0,N,2,1,0.008
+1316,19010093,66530,ridged crangon,Crangon dalli,,0,N,2,1,0.001
+1317,19010093,74435,Nuculana sp.,Nuculana sp.,,0,N,2,1,0.001
+1318,19010093,62000,isopod unident.,Isopoda,,0,N,2,1,0.001
+1319,19010094,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.586
+1320,19010094,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,28,4.068
+1321,19010094,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.359
+1322,19010094,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,0.810
+1323,19010094,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,33,0.812
+1324,19010094,99997,unsorted catch and debris,,,0,Y,1,,11.76
+1325,19010094,99997,unsorted catch and debris,,,0,Y,1,,6.92
+1326,19010094,99997,unsorted catch and debris,,,0,Y,1,,14.08
+1327,19010094,99997,unsorted catch and debris,,,0,Y,1,,9.00
+1328,19010094,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.892
+1329,19010094,81780,common mud star,Ctenodiscus crispatus,,0,N,2,36,0.195
+1330,19010094,80810,Leafy Flat star,Luidia foliolata,,0,N,2,4,0.770
+1331,19010094,99999,natural debris,,,0,N,2,,0.085
+1332,19010094,66030,ocean shrimp,Pandalus jordani,,0,N,2,4,0.023
+1333,19010094,66163,Spirontocaris lamellicornis,Spirontocaris lamellicornis,,0,N,2,1,0.001
+1334,19010094,74983,hairy cockle,Clinocardium ciliatum,,0,N,2,2,0.011
+1335,19010094,50192,bristle worm,Aphrodita negligens,,0,N,2,1,0.028
+1336,19010094,10001,flatfish unident.,Order Pleuronectiformes,,0,N,2,1,0.001
+1337,19010094,74435,Nuculana sp.,Nuculana sp.,,0,N,2,2,0.001
+1338,19010094,71535,Aleutian moonsnail,Cryptonatica (=Natica) aleutica,,0,N,2,3,0.007
+1339,19010095,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.781
+1340,19010095,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,18,3.222
+1341,19010095,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.432
+1342,19010095,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,19,0.866
+1343,19010095,99997,unsorted catch and debris,,,0,Y,1,,10.18
+1344,19010095,99997,unsorted catch and debris,,,0,Y,1,,8.64
+1345,19010095,99997,unsorted catch and debris,,,0,Y,1,,11.72
+1346,19010095,99997,unsorted catch and debris,,,0,Y,1,,12.98
+1347,19010095,99997,unsorted catch and debris,,,0,Y,1,,11.50
+1348,19010095,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.788
+1349,19010095,80810,Leafy Flat star,Luidia foliolata,,0,N,2,1,0.045
+1350,19010095,50192,bristle worm,Aphrodita negligens,,0,N,2,1,0.033
+1351,19010095,66030,ocean shrimp,Pandalus jordani,,0,N,2,2,0.012
+1352,19010095,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,4,0.093
+1353,19010095,81780,common mud star,Ctenodiscus crispatus,,0,N,2,2,0.009
+1354,19010095,10130,flathead sole,Hippoglossoides elassodon,,0,N,2,1,0.011
+1355,19010095,74983,hairy cockle,Clinocardium ciliatum,,0,N,2,1,0.011
+1356,19010095,23807,slender eelblenny,Lumpenus fabricii,,0,N,2,1,0.001
+1357,19010095,71535,Aleutian moonsnail,Cryptonatica (=Natica) aleutica,,0,N,2,1,0.006
+1428,19010096,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,29,5.68
+1429,19010096,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,35,5.98
+1430,19010096,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,72,14.4
+1431,19010096,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,29,2.94
+1358,19010097,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.950
+1359,19010097,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,6.564
+1360,19010097,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,8,1.74
+1361,19010097,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.129
+1362,19010097,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,33,0.325
+1363,19010097,420,big skate,Raja binoculata,,-1,Y,1,1,0.72
+1364,19010097,99997,unsorted catch and debris,,,0,Y,1,,11.88
+1365,19010097,99997,unsorted catch and debris,,,0,Y,1,,8.06
+1366,19010097,99997,unsorted catch and debris,,,0,Y,1,,16.30
+1367,19010097,99997,unsorted catch and debris,,,0,Y,1,,11.0
+1368,19010097,99997,unsorted catch and debris,,,0,Y,1,,6.0
+1369,19010097,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.538
+1370,19010097,80810,Leafy Flat star,Luidia foliolata,,0,N,2,2,0.160
+1371,19010097,81780,common mud star,Ctenodiscus crispatus,,0,N,2,1,0.001
+1372,19010097,74435,Nuculana sp.,Nuculana sp.,,0,N,2,4,0.002
+1373,19010097,66030,ocean shrimp,Pandalus jordani,,0,N,2,1,0.003
+1374,19010098,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.620
+1375,19010098,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,4.562
+1376,19010098,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,14,1.98
+1377,19010098,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.369
+1378,19010098,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,1.271
+1379,19010098,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,40,1.938
+1380,19010098,99997,unsorted catch and debris,,,0,Y,1,,9.94
+1381,19010098,99997,unsorted catch and debris,,,0,Y,1,,7.2
+1382,19010098,99997,unsorted catch and debris,,,0,Y,1,,11.96
+1383,19010098,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.082
+1384,19010098,81780,common mud star,Ctenodiscus crispatus,,0,N,2,11,0.056
+1385,19010098,50192,bristle worm,Aphrodita negligens,,0,N,2,2,0.035
+1386,19010098,66030,ocean shrimp,Pandalus jordani,,0,N,2,4,0.018
+1387,19010098,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,,0.014
+1388,19010098,75385,Pandora sp.,Pandora sp.,,0,N,2,,0.001
+1389,19010098,80810,Leafy Flat star,Luidia foliolata,,0,N,2,1,0.060
+1390,19010098,74983,hairy cockle,Clinocardium ciliatum,,0,N,2,,0.007
+1467,19010099,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.733
+1468,19010099,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,5.92
+1469,19010099,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,48,7.92
+1470,19010099,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.376
+1471,19010099,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,1.331
+1472,19010099,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,33,1.33
+1473,19010099,435,Bering skate,Bathyraja interrupta,,-1,Y,1,1,1.72
+1474,19010099,99997,unsorted catch and debris,,,0,Y,1,,11.46
+1475,19010099,99997,unsorted catch and debris,,,0,Y,1,,6.52
+1476,19010099,99997,unsorted catch and debris,,,0,Y,1,,4.94
+1477,19010099,99997,unsorted catch and debris,,,0,Y,1,,10.64
+1478,19010099,99997,unsorted catch and debris,,,0,Y,1,,8.9
+1479,19010099,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,1.9
+1480,19010099,85120,sweet sea potato,Molpadia intermedia,,0,N,2,1,0.021
+1481,19010099,80810,Leafy Flat star,Luidia foliolata,,0,N,2,2,0.652
+1482,19010099,50192,bristle worm,Aphrodita negligens,,0,N,2,1,0.022
+1483,19010099,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,2,0.01
+1484,19010099,74983,hairy cockle,Clinocardium ciliatum,,0,N,2,1,0.005
+1485,19010099,66030,ocean shrimp,Pandalus jordani,,0,N,2,1,0.006
+1486,19010099,71535,Aleutian moonsnail,Cryptonatica (=Natica) aleutica,,0,N,2,1,0.003
+1487,19010099,81780,common mud star,Ctenodiscus crispatus,,0,N,2,5,0.021
+1488,19010099,69010,hermit crab unident.,Family Paguridae,,0,N,2,1,0.003
+1489,19010099,99999,natural debris,,,0,N,2,,0.02
+1490,19010100,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.926
+1491,19010100,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,6.04
+1492,19010100,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,21,4.16
+1493,19010100,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.264
+1494,19010100,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,0.81
+1495,19010100,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,14,0.441
+1496,19010100,99997,unsorted catch and debris,,,0,Y,1,,10.38
+1497,19010100,99997,unsorted catch and debris,,,0,Y,1,,12.36
+1498,19010100,99997,unsorted catch and debris,,,0,Y,1,,11.9
+1499,19010100,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.112
+1500,19010100,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,7,0.16
+1501,19010100,66030,ocean shrimp,Pandalus jordani,,0,N,2,5,0.026
+1502,19010100,80810,Leafy Flat star,Luidia foliolata,,0,N,2,2,0.143
+1503,19010100,99999,natural debris,,,0,N,2,,0.006
+1504,19010100,42008,Halipteris sp.,Halipteris sp.,,0,N,2,1,0.037
+1505,19010100,69010,hermit crab unident.,Family Paguridae,,0,N,2,2,0.002
+1506,19010100,74419,broad yoldia,Yoldia thraciaeformis,,0,N,2,1,0.001
+1507,19010100,74435,Nuculana sp.,Nuculana sp.,,0,N,2,1,0.001
+1508,19010100,81780,common mud star,Ctenodiscus crispatus,,0,N,2,2,0.007
+1509,19010101,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.222
+1510,19010101,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,11,2.43
+1511,19010101,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,4,0.01
+1512,19010101,99997,unsorted catch and debris,,,0,Y,1,,12.54
+1513,19010101,99997,unsorted catch and debris,,,0,Y,1,,11.22
+1514,19010101,99997,unsorted catch and debris,,,0,Y,1,,7.84
+1515,19010101,99997,unsorted catch and debris,,,0,Y,1,,11.86
+1516,19010101,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.47
+1517,19010101,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,3,0.059
+1518,19010101,69010,hermit crab unident.,Family Paguridae,,0,N,2,1,0.017
+1519,19010101,74435,Nuculana sp.,Nuculana sp.,,0,N,2,8,0.006
+1520,19010101,99999,natural debris,,,0,N,2,,0.093
+1521,19010101,50192,bristle worm,Aphrodita negligens,,0,N,2,2,0.048
+1522,19010102,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.87
+1523,19010102,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,5.32
+1524,19010102,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,45,7.56
+1525,19010102,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.202
+1526,19010102,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,26,0.441
+1527,19010102,99997,unsorted catch and debris,,,0,Y,1,,13.6
+1528,19010102,99997,unsorted catch and debris,,,0,Y,1,,10.5
+1529,19010102,99997,unsorted catch and debris,,,0,Y,1,,12.6
+1530,19010102,99997,unsorted catch and debris,,,0,Y,1,,14.22
+1531,19010102,99997,unsorted catch and debris,,,0,Y,1,,10.6
+1532,19010102,99997,unsorted catch and debris,,,0,Y,1,,9.7
+1533,19010102,99997,unsorted catch and debris,,,0,Y,1,,13.22
+1534,19010102,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.942
+1535,19010102,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,2,0.006
+1536,19010102,69010,hermit crab unident.,Family Paguridae,,0,N,2,1,0.011
+1537,19010102,74435,Nuculana sp.,Nuculana sp.,,0,N,2,8,0.004
+1538,19010103,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.786
+1539,19010103,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,25,4.64
+1540,19010103,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.513
+1541,19010103,99997,unsorted catch and debris,,,0,Y,1,,12.88
+1542,19010103,99997,unsorted catch and debris,,,0,Y,1,,12.2
+1543,19010103,99997,unsorted catch and debris,,,0,Y,1,,15.88
+1544,19010103,99997,unsorted catch and debris,,,0,Y,1,,13.5
+1545,19010103,99997,unsorted catch and debris,,,0,Y,1,,9.98
+1546,19010103,99997,unsorted catch and debris,,,0,Y,1,,10.9
+1547,19010103,99997,unsorted catch and debris,,,0,Y,1,,11.32
+1548,19010103,99997,unsorted catch and debris,,,0,Y,1,,11.12
+1549,19010103,99997,unsorted catch and debris,,,0,Y,1,,13.66
+1550,19010103,83320,notched brittlestar,Ophiura sarsi,,0,Y,1,,3.592
+1551,19010103,74435,Nuculana sp.,Nuculana sp.,,0,N,2,5,0.003
+1552,19010103,99993,empty bivalve shells,,,0,N,2,,0.001
+1553,19010104,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.056
+1554,19010104,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,47,9.88
+1555,19010104,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,6.28
+1556,19010104,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,15,0.394
+1557,19010104,99999,natural debris,,,0,Y,1,,20.24
+1558,19010104,99997,unsorted catch and debris,,,0,Y,1,,18.1
+1559,19010104,99997,unsorted catch and debris,,,0,Y,1,,15.62
+1560,19010104,99997,unsorted catch and debris,,,0,Y,1,,12.42
+1561,19010104,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.862
+1562,19010104,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,6,0.122
+1563,19010104,50192,bristle worm,Aphrodita negligens,,0,N,2,1,0.031
+1564,19010104,80810,Leafy Flat star,Luidia foliolata,,0,N,2,1,0.032
+1565,19010104,74983,hairy cockle,Clinocardium ciliatum,,0,N,2,1,0.015
+1566,19010104,66030,ocean shrimp,Pandalus jordani,,0,N,2,1,0.001
+1567,19010104,23807,slender eelblenny,Lumpenus fabricii,,0,N,2,1,0.003
+1568,19010104,81780,common mud star,Ctenodiscus crispatus,,0,N,2,2,0.003
+1432,19010105,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,74,14.08
+1433,19010105,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,77,15.48
+1434,19010105,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,73,15.5
+1435,19010105,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,18,2.1
+1569,19010106,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.718
+1570,19010106,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,108,20.68
+1571,19010106,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,5.366
+1572,19010106,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.432
+1573,19010106,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,26,1.151
+1574,19010106,99997,unsorted catch and debris,,,0,Y,1,,10.2
+1575,19010106,99997,unsorted catch and debris,,,0,Y,1,,13.28
+1576,19010106,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,1.986
+1577,19010106,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,20,0.289
+1578,19010106,50192,bristle worm,Aphrodita negligens,,0,N,2,5,0.177
+1579,19010106,80810,Leafy Flat star,Luidia foliolata,,0,N,2,1,0.102
+1580,19010106,66030,ocean shrimp,Pandalus jordani,,0,N,2,2,0.015
+1581,19010106,71535,Aleutian moonsnail,Cryptonatica (=Natica) aleutica,,0,N,2,1,0.021
+1582,19010106,99993,empty bivalve shells,,,0,N,2,,0.075
+1583,19010107,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.657
+1584,19010107,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,94,14.88
+1585,19010107,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,5.1
+1586,19010107,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.522
+1587,19010107,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,12,0.842
+1588,19010107,99997,unsorted catch and debris,,,0,Y,1,,10.64
+1589,19010107,99997,unsorted catch and debris,,,0,Y,1,,10.08
+1590,19010107,99997,unsorted catch and debris,,,0,Y,1,,10.94
+1591,19010107,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.083
+1592,19010107,83020,basket star,Gorgonocephalus eucnemis,,0,N,2,1,0.274
+1593,19010107,80810,Leafy Flat star,Luidia foliolata,,0,N,2,3,0.197
+1594,19010107,82675,heart urchin,Brisaster latifrons,,0,N,2,1,0.017
+1595,19010107,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,7,0.072
+1596,19010107,66030,ocean shrimp,Pandalus jordani,,0,N,2,4,0.019
+1597,19010107,74983,hairy cockle,Clinocardium ciliatum,,0,N,2,1,0.008
+1598,19010107,71535,Aleutian moonsnail,Cryptonatica (=Natica) aleutica,,0,N,2,1,0.004
+1599,19010107,81780,common mud star,Ctenodiscus crispatus,,0,N,2,18,0.088
+1600,19010108,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,1,0.141
+1601,19010108,99997,unsorted catch and debris,,,0,Y,1,,13.2
+1602,19010108,99997,unsorted catch and debris,,,0,Y,1,,12.02
+1603,19010108,99997,unsorted catch and debris,,,0,Y,1,,9.28
+1604,19010108,99997,unsorted catch and debris,,,0,Y,1,,10.16
+1605,19010108,99997,unsorted catch and debris,,,0,Y,1,,12.32
+1606,19010108,99997,unsorted catch and debris,,,0,Y,1,,13.68
+1607,19010108,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.564
+1608,19010108,74435,Nuculana sp.,Nuculana sp.,,0,N,2,450,0.099
+1609,19010108,50192,bristle worm,Aphrodita negligens,,0,N,2,1,0.042
+1610,19010108,99999,natural debris,,,0,N,2,,0.01
+1611,19010108,75385,Pandora sp.,Pandora sp.,,0,N,2,1,0.004
+1612,19010108,69010,hermit crab unident.,Family Paguridae,,0,N,2,3,0.016
+1613,19010109,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.993
+1614,19010109,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,95,17.2
+1615,19010109,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,109,19.32
+1616,19010109,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,5.66
+1617,19010109,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,6,0.195
+1618,19010109,99997,unsorted catch and debris,,,0,Y,1,,12.8
+1619,19010109,99997,unsorted catch and debris,,,0,Y,1,,9.5
+1620,19010109,99997,unsorted catch and debris,,,0,Y,1,,12.78
+1621,19010109,99997,unsorted catch and debris,,,0,Y,1,,11.08
+1622,19010109,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.465
+1623,19010109,99993,empty bivalve shells,,,0,N,2,,0.066
+1624,19010109,66120,sidestripe shrimp,Pandalopsis dispar,,0,N,2,1,0.009
+1625,19010109,66030,ocean shrimp,Pandalus jordani,,0,N,2,1,0.005
+1626,19010109,50192,bristle worm,Aphrodita negligens,,0,N,2,1,0.042
+1627,19010109,82675,heart urchin,Brisaster latifrons,,0,N,2,1,0.029
+1628,19010109,99999,natural debris,,,0,N,2,,0.02
+1629,19010109,72740,Buccinum snail unident.,Buccinum sp.,,0,N,2,1,0.008
+1630,19010109,69010,hermit crab unident.,Family Paguridae,,0,N,2,3,0.015
+1631,19010109,74419,broad yoldia,Yoldia thraciaeformis,,0,N,2,39,0.15
+1632,19010109,74983,hairy cockle,Clinocardium ciliatum,,0,N,2,1,0.004
+1633,19010109,81780,common mud star,Ctenodiscus crispatus,,0,N,2,1,0.007
+1634,19010109,75240,Macoma sp.,Macoma sp.,,0,N,2,3,0.01
+2230,19010109,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,4,6.24
+1635,19010110,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.271
+1636,19010110,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,100,20.02
+1637,19010110,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,6.1
+1638,19010110,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,2,0.099
+1639,19010110,435,Bering skate,Bathyraja interrupta,,-1,Y,1,1,3.52
+1640,19010110,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,1.24
+1641,19010110,99997,unsorted catch and debris,,,0,Y,1,,5.24
+1642,19010110,99997,unsorted catch and debris,,,0,Y,1,,11.74
+1643,19010110,99997,unsorted catch and debris,,,0,Y,1,,14.44
+1644,19010110,99997,unsorted catch and debris,,,0,Y,1,,5.42
+1645,19010110,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,0.33
+1646,19010110,81780,common mud star,Ctenodiscus crispatus,,0,N,2,132,1.075
+1647,19010110,10180,Dover sole,Microstomus pacificus,,0,N,2,1,0.229
+1648,19010110,10001,flatfish unident.,Order Pleuronectiformes,,0,N,2,1,0.003
+1649,19010110,50192,bristle worm,Aphrodita negligens,,0,N,2,3,0.092
+1650,19010110,72740,Buccinum snail unident.,Buccinum sp.,,0,N,2,3,0.034
+1651,19010110,69010,hermit crab unident.,Family Paguridae,,0,N,2,3,0.014
+1652,19010110,74419,broad yoldia,Yoldia thraciaeformis,,0,N,2,3,0.014
+1653,19010110,66530,ridged crangon,Crangon dalli,,0,N,2,1,0.006
+1654,19010110,68578,Pacific lyre crab,Hyas lyratus,,0,N,2,1,0.003
+1655,19010111,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,2,0.087
+1656,19010111,421,Raja binoculata egg case,Raja binoculata egg case,,-1,Y,1,22,9.42
+1657,19010111,421,Raja binoculata egg case,Raja binoculata egg case,,-1,Y,1,28,11.28
+1658,19010111,421,Raja binoculata egg case,Raja binoculata egg case,,-1,Y,1,30,11.2
+1659,19010111,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,2,2.48
+1660,19010111,99997,unsorted catch and debris,,,0,Y,1,,7.64
+1661,19010111,99997,unsorted catch and debris,,,0,Y,1,,9.04
+1662,19010111,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,1.189
+1663,19010111,99999,natural debris,,,0,N,2,,0.242
+1664,19010111,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,3,0.064
+1665,19010111,71080,California armina,Armina californica,,0,N,2,1,0.032
+1666,19010111,81780,common mud star,Ctenodiscus crispatus,,0,N,2,7,0.007
+1667,19010111,66030,ocean shrimp,Pandalus jordani,,0,N,2,1,0.005
+1668,19010111,69010,hermit crab unident.,Family Paguridae,,0,N,2,2,0.008
+1669,19010111,50192,bristle worm,Aphrodita negligens,,0,N,2,1,0.007
+1670,19010111,66200,Lebbeus sp.,Lebbeus sp.,,0,N,2,1,0.002
+1671,19010111,10001,flatfish unident.,Order Pleuronectiformes,,0,N,2,1,0.001
+1672,19010111,10180,Dover sole,Microstomus pacificus,,0,N,2,,0.415
+1673,19010112,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.663
+1674,19010112,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,84,14
+1675,19010112,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,64,10.3
+1676,19010112,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,98,16.46
+1677,19010112,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,89,13.9
+1678,19010112,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,5.102
+1679,19010112,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,460,12.94
+1680,19010112,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,0.821
+1681,19010112,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.326
+1682,19010112,99997,unsorted catch and debris,,,0,Y,1,,16.96
+1683,19010112,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,1.676
+1684,19010112,99993,empty bivalve shells,,,0,N,2,,0.222
+1685,19010112,75016,milky venus,Compsomyax subdiaphanus,,0,N,2,6,0.142
+1686,19010112,10001,flatfish unident.,Order Pleuronectiformes,,0,N,2,4,0.037
+1687,19010112,50192,bristle worm,Aphrodita negligens,,0,N,2,20,0.29
+1688,19010112,21394,tadpole sculpin,Psychrolutes paradoxus,,0,N,2,3,0.033
+1689,19010112,66030,ocean shrimp,Pandalus jordani,,0,N,2,5,0.034
+1690,19010112,50001,worm unident.,Phylum Annelida,,0,N,2,1,0.049
+1691,19010112,81780,common mud star,Ctenodiscus crispatus,,0,N,2,16,0.08
+1692,19010112,82675,heart urchin,Brisaster latifrons,,0,N,2,1,0.036
+1693,19010112,72740,Buccinum snail unident.,Buccinum sp.,,0,N,2,2,0.027
+1694,19010112,74983,hairy cockle,Clinocardium ciliatum,,0,N,2,6,0.043
+1695,19010112,71535,Aleutian moonsnail,Cryptonatica (=Natica) aleutica,,0,N,2,1,0.013
+1696,19010112,69010,hermit crab unident.,Family Paguridae,,0,N,2,1,0.007
+1436,19010113,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,108,18.6
+1437,19010113,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,117,18.94
+1438,19010113,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,100,16.92
+1439,19010113,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,21,3.56
+1440,19010113,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,106,17.78
+1441,19010113,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,91,13.98
+1442,19010113,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,136,22.24
+1443,19010113,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,130,21.02
+1444,19010113,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,131,21.36
+1445,19010113,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,40,6.65
+1446,19010113,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,142,11.12
+1447,19010113,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,19,1.525
+1448,19010113,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,111,9.88
+1697,19010114,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,62,10.26
+1698,19010114,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,93,15.86
+1699,19010114,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,121,19.78
+1700,19010114,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,114,18.92
+1701,19010114,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,100,16.42
+1702,19010114,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,85,14.52
+1703,19010114,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.704
+1704,19010114,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,5.3
+1705,19010114,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,243,9.7
+1706,19010114,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,1.379
+1707,19010114,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.476
+1708,19010114,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,2,1.72
+1709,19010114,99997,unsorted catch and debris,,,0,Y,1,,15.92
+1710,19010114,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,1.68
+1711,19010114,81780,common mud star,Ctenodiscus crispatus,,0,N,2,,0.675
+1712,19010114,50192,bristle worm,Aphrodita negligens,,0,N,2,17,0.298
+1713,19010114,99999,natural debris,,,0,N,2,,0.072
+1714,19010114,91000,sponge unident.,Phylum Porifera,,0,N,2,,0.063
+1715,19010114,99993,empty bivalve shells,,,0,N,2,,0.118
+1716,19010114,21394,tadpole sculpin,Psychrolutes paradoxus,,0,N,2,1,0.025
+1717,19010114,69010,hermit crab unident.,Family Paguridae,,0,N,2,8,0.1
+1718,19010114,68560,Tanner crab,Chionoecetes bairdi,,0,N,2,2,0.007
+1719,19010114,66030,ocean shrimp,Pandalus jordani,,0,N,2,7,0.039
+1720,19010114,83020,basket star,Gorgonocephalus eucnemis,,0,N,2,1,0.018
+1721,19010114,68578,Pacific lyre crab,Hyas lyratus,,0,N,2,1,0.01
+1722,19010114,10001,flatfish unident.,Order Pleuronectiformes,,0,N,2,3,0.008
+1723,19010114,66530,ridged crangon,Crangon dalli,,0,N,2,2,0.003
+1724,19010114,74419,broad yoldia,Yoldia thraciaeformis,,0,N,2,1,0.001
+1725,19010114,71535,Aleutian moonsnail,Cryptonatica (=Natica) aleutica,,0,N,2,2,0.006
+1726,19010114,74435,Nuculana sp.,Nuculana sp.,,0,N,2,1,0.001
+1727,19010115,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.154
+1728,19010115,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,6.44
+1729,19010115,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,72,15.81
+1730,19010115,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,7,0.012
+1731,19010115,99997,unsorted catch and debris,,,0,Y,1,,10.66
+1732,19010115,99997,unsorted catch and debris,,,0,Y,1,,16.8
+1733,19010115,99997,unsorted catch and debris,,,0,Y,1,,13.5
+1734,19010115,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.294
+1735,19010115,401,skate egg case unident.,,,0,N,2,1,0.075
+1736,19010115,43000,sea anemone unident.,Order Actiniaria,,0,N,2,1,0.082
+1737,19010115,66020,Pandalus sp.,Pandalus sp.,,0,N,2,6,0.021
+1738,19010115,71515,fragile moonsnail,Bulbus fragilis,,0,N,2,1,0.017
+1739,19010115,69010,hermit crab unident.,Family Paguridae,,0,N,2,2,0.006
+1740,19010115,75385,Pandora sp.,Pandora sp.,,0,N,2,2,0.001
+1741,19010115,75284,Serripes sp.,Serripes sp.,,0,N,2,6,0.001
+1742,19010115,74980,Clinocardium sp.,Clinocardium sp.,,0,N,2,1,0.001
+1743,19010115,74435,Nuculana sp.,Nuculana sp.,,0,N,2,6,0.001
+1744,19010115,50192,bristle worm,Aphrodita negligens,,0,N,2,1,0.031
+1745,19010116,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,7.18
+1746,19010116,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,14,3.02
+1747,19010116,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.166
+1748,19010116,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,7,0.194
+1749,19010116,99997,unsorted catch and debris,,,0,Y,1,,17.36
+1750,19010116,99997,unsorted catch and debris,,,0,Y,1,,17.28
+1751,19010116,99997,unsorted catch and debris,,,0,Y,1,,12.34
+1752,19010116,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.95
+1753,19010116,75284,Serripes sp.,Serripes sp.,,0,N,2,4,0.106
+1754,19010116,74980,Clinocardium sp.,Clinocardium sp.,,0,N,2,2,0.024
+1755,19010116,80810,Leafy Flat star,Luidia foliolata,,0,N,2,1,0.022
+1756,19010116,99993,empty bivalve shells,,,0,N,2,,0.042
+1757,19010116,50192,bristle worm,Aphrodita negligens,,0,N,2,1,0.023
+1758,19010116,69010,hermit crab unident.,Family Paguridae,,0,N,2,3,0.012
+1759,19010116,74436,northern nutclam,Nuculana pernula,,0,N,2,4,0.001
+1760,19010116,71500,snail unident.,Class Gastropoda,,0,N,2,1,0.001
+1761,19010117,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,5.86
+1762,19010117,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.952
+1763,19010117,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,24,5.22
+1764,19010117,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,9,0.243
+1765,19010117,99997,unsorted catch and debris,,,0,Y,1,,17.3
+1766,19010117,99997,unsorted catch and debris,,,0,Y,1,,9.82
+1767,19010117,99997,unsorted catch and debris,,,0,Y,1,,14.36
+1768,19010117,99997,unsorted catch and debris,,,0,Y,1,,17.24
+1769,19010117,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.62
+1770,19010117,74980,Clinocardium sp.,Clinocardium sp.,,0,N,2,1,0.011
+1771,19010117,75284,Serripes sp.,Serripes sp.,,0,N,2,5,0.092
+1772,19010117,80810,Leafy Flat star,Luidia foliolata,,0,N,2,1,0.046
+1773,19010117,71525,Natica sp.,Natica sp.,,0,N,2,2,0.065
+1774,19010117,74419,broad yoldia,Yoldia thraciaeformis,,0,N,2,1,0.001
+1775,19010117,66020,Pandalus sp.,Pandalus sp.,,0,N,2,1,0.001
+1776,19010117,74436,northern nutclam,Nuculana pernula,,0,N,2,4,0.001
+1777,19010117,71500,snail unident.,Class Gastropoda,,0,N,2,2,0.001
+1778,19010117,68040,pygmy cancer crab,Cancer oregonensis,,0,N,2,1,0.012
+1779,19010117,50192,bristle worm,Aphrodita negligens,,0,N,2,1,0.001
+1780,19010118,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.128
+1781,19010118,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,5.68
+1782,19010118,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,56,10.44
+1783,19010118,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.252
+1784,19010118,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,23,0.568
+1785,19010118,99997,unsorted catch and debris,,,0,Y,1,,13.78
+1786,19010118,99997,unsorted catch and debris,,,0,Y,1,,14.74
+1787,19010118,99997,unsorted catch and debris,,,0,Y,1,,19.14
+1788,19010118,99997,unsorted catch and debris,,,0,Y,1,,15.92
+1789,19010118,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.982
+1790,19010118,99993,empty bivalve shells,,,0,N,2,,0.09
+1791,19010118,69010,hermit crab unident.,Family Paguridae,,0,N,2,1,0.003
+1792,19010118,75284,Serripes sp.,Serripes sp.,,0,N,2,9,0.032
+1793,19010118,69010,hermit crab unident.,Family Paguridae,,0,N,2,1,0.006
+1794,19010118,74436,northern nutclam,Nuculana pernula,,0,N,2,6,0.001
+1795,19010119,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.062
+1796,19010119,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,41,7.86
+1797,19010119,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,5.9
+1798,19010119,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.283
+1799,19010119,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,25,0.322
+1800,19010119,99997,unsorted catch and debris,,,0,Y,1,,14.28
+1801,19010119,99997,unsorted catch and debris,,,0,Y,1,,17.52
+1802,19010119,99997,unsorted catch and debris,,,0,Y,1,,14.04
+1803,19010119,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.07
+1804,19010119,99993,empty bivalve shells,,,0,N,2,,0.071
+1805,19010119,71525,Natica sp.,Natica sp.,,0,N,2,1,0.016
+1806,19010119,50192,bristle worm,Aphrodita negligens,,0,N,2,1,0.024
+1807,19010119,99999,natural debris,,,0,N,2,1,0.077
+1808,19010119,66020,Pandalus sp.,Pandalus sp.,,0,N,2,1,0.003
+1809,19010120,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.088
+1810,19010120,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,27,5.9
+1811,19010120,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.276
+1812,19010120,99997,unsorted catch and debris,,,0,Y,1,,16.88
+1813,19010120,99997,unsorted catch and debris,,,0,Y,1,,19.07
+1814,19010120,99997,unsorted catch and debris,,,0,Y,1,,16.74
+1815,19010120,99997,unsorted catch and debris,,,0,Y,1,,7.58
+1816,19010120,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,5.35
+1817,19010120,75284,Serripes sp.,Serripes sp.,,0,N,2,10,0.264
+1818,19010120,66020,Pandalus sp.,Pandalus sp.,,0,N,2,4,0.022
+1819,19010120,71525,Natica sp.,Natica sp.,,0,N,2,4,0.109
+1820,19010120,69010,hermit crab unident.,Family Paguridae,,0,N,2,2,0.306
+1449,19010121,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,43,5.48
+1450,19010121,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,99,19.36
+1451,19010121,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,84,14.64
+1452,19010121,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,36,7.96
+1453,19010121,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,47,9.84
+1454,19010121,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,40,8.92
+1821,19010122,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.110
+1822,19010122,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,6.62
+1823,19010122,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,28,6
+1824,19010122,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,11,0.223
+1825,19010122,402,Bathyraja sp. egg case,Bathyraja sp. egg case,,-1,Y,1,1,0.114
+1826,19010122,99997,unsorted catch and debris,,,0,Y,1,,12.72
+1827,19010122,99997,unsorted catch and debris,,,0,Y,1,,13.52
+1828,19010122,99997,unsorted catch and debris,,,0,Y,1,,20.66
+1829,19010122,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.431
+1830,19010122,75284,Serripes sp.,Serripes sp.,,0,N,2,12,0.231
+1831,19010122,74980,Clinocardium sp.,Clinocardium sp.,,0,N,2,1,0.016
+1832,19010122,80810,Leafy Flat star,Luidia foliolata,,0,N,2,1,0.185
+1833,19010122,71519,eulimas,Eulima sp.,,0,N,2,1,0.02
+1834,19010122,62025,Rocinella angusta,Rocinella angusta,,0,N,2,1,0.001
+1835,19010123,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.793
+1836,19010123,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,5.54
+1837,19010123,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,60,11.36
+1838,19010123,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,9,0.377
+1839,19010123,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,1,0.036
+1840,19010123,99997,unsorted catch and debris,,,0,Y,1,,15.2
+1841,19010123,99997,unsorted catch and debris,,,0,Y,1,,12.19
+1842,19010123,99997,unsorted catch and debris,,,0,Y,1,,13.55
+1843,19010123,99997,unsorted catch and debris,,,0,Y,1,,0.365
+1844,19010123,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.164
+1845,19010123,80810,Leafy Flat star,Luidia foliolata,,0,N,2,3,0.312
+1846,19010123,75284,Serripes sp.,Serripes sp.,,0,N,2,7,0.103
+1847,19010123,74980,Clinocardium sp.,Clinocardium sp.,,0,N,2,1,0.007
+1848,19010123,82675,heart urchin,Brisaster latifrons,,0,N,2,1,0.054
+1849,19010123,50192,bristle worm,Aphrodita negligens,,0,N,2,1,0.034
+1850,19010123,21300,sculpin unident.,Family Cottidae,,0,N,2,1,0.023
+1851,19010123,71525,Natica sp.,Natica sp.,,0,N,2,1,0.012
+1852,19010124,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.025
+1853,19010124,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,33,6.5
+1854,19010124,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,5.96
+1855,19010124,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,9,0.194
+1856,19010124,99997,unsorted catch and debris,,,0,Y,1,,13.8
+1857,19010124,99997,unsorted catch and debris,,,0,Y,1,,11.6
+1858,19010124,99997,unsorted catch and debris,,,0,Y,1,,13.62
+1859,19010124,99997,unsorted catch and debris,,,0,Y,1,,18.84
+1860,19010124,99997,unsorted catch and debris,,,0,Y,1,,0.06
+1861,19010124,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.71
+1862,19010124,43000,sea anemone unident.,Order Actiniaria,,0,N,2,1,0.368
+1863,19010124,99999,natural debris,,,0,N,2,,0.021
+1864,19010124,66020,Pandalus sp.,Pandalus sp.,,0,N,2,1,0.007
+1865,19010124,99993,empty bivalve shells,,,0,N,2,,0.032
+1866,19010124,80810,Leafy Flat star,Luidia foliolata,,0,N,2,1,0.04
+1867,19010125,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.674
+1868,19010125,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,24,4.74
+1869,19010125,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,5.5
+1870,19010125,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.42
+1871,19010125,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,1.177
+1872,19010125,99997,unsorted catch and debris,,,0,Y,1,,15.54
+1873,19010125,99997,unsorted catch and debris,,,0,Y,1,,17.02
+1874,19010125,99997,unsorted catch and debris,,,0,Y,1,,13.94
+1875,19010125,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.166
+1876,19010125,69010,hermit crab unident.,Family Paguridae,,0,N,2,1,0.051
+1877,19010125,74980,Clinocardium sp.,Clinocardium sp.,,0,N,2,3,0.021
+1878,19010125,75284,Serripes sp.,Serripes sp.,,0,N,2,6,0.119
+1879,19010125,99999,natural debris,,,0,N,2,,0.039
+1880,19010125,71525,Natica sp.,Natica sp.,,0,N,2,1,0.01
+1881,19010125,50192,bristle worm,Aphrodita negligens,,0,N,2,2,0.079
+1882,19010125,80810,Leafy Flat star,Luidia foliolata,,0,N,2,2,0.075
+1883,19010126,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.841
+1884,19010126,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,5.74
+1885,19010126,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,53,9.29
+1886,19010126,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.3
+1887,19010126,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,32,0.788
+1888,19010126,99997,unsorted catch and debris,,,0,Y,1,,19
+1889,19010126,99997,unsorted catch and debris,,,0,Y,1,,16.62
+1890,19010126,99997,unsorted catch and debris,,,0,Y,1,,13.76
+1891,19010126,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.36
+1892,19010126,75284,Serripes sp.,Serripes sp.,,0,N,2,10,0.174
+1893,19010126,80810,Leafy Flat star,Luidia foliolata,,0,N,2,1,0.217
+1894,19010126,10130,flathead sole,Hippoglossoides elassodon,,0,N,2,1,0.08
+1895,19010126,74435,Nuculana sp.,Nuculana sp.,,0,N,2,1,0.001
+1896,19010127,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.899
+1897,19010127,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,5.46
+1898,19010127,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,57,9.1
+1899,19010127,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.464
+1900,19010127,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,1.09
+1901,19010127,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,43,1.302
+1902,19010127,402,Bathyraja sp. egg case,Bathyraja sp. egg case,,-1,Y,1,1,0.093
+1903,19010127,99997,unsorted catch and debris,,,0,Y,1,,13.74
+1904,19010127,99997,unsorted catch and debris,,,0,Y,1,,16
+1905,19010127,99997,unsorted catch and debris,,,0,Y,1,,15.2
+1906,19010127,99997,unsorted catch and debris,,,0,Y,1,,0.76
+1907,19010127,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.24
+1908,19010127,80810,Leafy Flat star,Luidia foliolata,,0,N,2,2,0.163
+1909,19010127,74980,Clinocardium sp.,Clinocardium sp.,,0,N,2,1,0.004
+1910,19010127,75284,Serripes sp.,Serripes sp.,,0,N,2,12,0.177
+1911,19010128,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,26,4.86
+1912,19010128,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,24,0.901
+1913,19010128,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.26
+1914,19010128,402,Bathyraja sp. egg case,Bathyraja sp. egg case,,-1,Y,1,2,0.188
+1915,19010128,99997,unsorted catch and debris,,,0,Y,1,,6.16
+1916,19010128,99997,unsorted catch and debris,,,0,Y,1,,11.46
+1917,19010128,99997,unsorted catch and debris,,,0,Y,1,,11.85
+1918,19010128,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.718
+1919,19010128,42017,orange sea pen,Ptilosarcus gurneyi,,0,N,2,1,0.012
+1920,19010128,75284,Serripes sp.,Serripes sp.,,0,N,2,14,0.333
+1921,19010128,80810,Leafy Flat star,Luidia foliolata,,0,N,2,1,0.167
+1922,19010128,99999,natural debris,,,0,N,2,2,0.106
+1923,19010128,74435,Nuculana sp.,Nuculana sp.,,0,N,2,1,0.001
+1924,19010128,50192,bristle worm,Aphrodita negligens,,0,N,2,1,0.009
+1925,19010128,82675,heart urchin,Brisaster latifrons,,0,N,2,1,0.006
+2231,19010128,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.261
+1455,19010129,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,50,5.02
+1456,19010129,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,67,13.1
+1457,19010129,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,40,7.7
+1458,19010129,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,87,12.36
+420,19010130,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,3.156
+421,19010130,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,6,2.14
+422,19010130,99997,unsorted catch and debris,,,0,Y,1,,19.78
+423,19010130,99997,unsorted catch and debris,,,0,Y,1,,17.10
+424,19010130,99997,unsorted catch and debris,,,0,Y,1,,13.52
+425,19010130,99997,unsorted catch and debris,,,0,Y,1,,7.22
+426,19010130,99997,unsorted catch and debris,,,0,Y,1,,15.92
+427,19010130,69010,hermit crab unident.,Family Paguridae,,0,N,2,6,0.039
+428,19010130,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,6.10
+429,19010130,71519,eulimas,Eulima sp.,,0,N,2,2,0.003
+430,19010130,21300,sculpin unident.,Family Cottidae,,0,N,2,1,0.037
+431,19010130,74000,bivalve unident.,Class Bivalvia,,0,N,2,,0.04
+432,19010130,66570,Argis sp.,Argis sp.,,0,N,2,1,0.004
+433,19010131,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,9,2.838
+434,19010131,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,2,0.016
+435,19010131,99997,unsorted catch and debris,,,0,Y,1,,16.92
+436,19010131,99997,unsorted catch and debris,,,0,Y,1,,16.94
+437,19010131,99997,unsorted catch and debris,,,0,Y,1,,15.36
+438,19010131,99997,unsorted catch and debris,,,0,Y,1,,13.78
+439,19010131,81780,common mud star,Ctenodiscus crispatus,,0,N,2,1,0.001
+440,19010131,66570,Argis sp.,Argis sp.,,0,N,2,1,0.001
+441,19010131,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.682
+499,19010132,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,7,2.243
+500,19010132,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,5,0.103
+501,19010132,99997,unsorted catch and debris,,,0,Y,1,,14.5
+502,19010132,99997,unsorted catch and debris,,,0,Y,1,,15.5
+503,19010132,99997,unsorted catch and debris,,,0,Y,1,,15.6
+504,19010132,99997,unsorted catch and debris,,,0,Y,1,,6.7
+505,19010132,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,5.53
+506,19010132,62025,Rocinella angusta,Rocinella angusta,,0,N,2,1,0.001
+507,19010132,74980,Clinocardium sp.,Clinocardium sp.,,0,N,2,1,0.001
+508,19010132,66020,Pandalus sp.,Pandalus sp.,,0,N,2,1,0.001
+509,19010132,71525,Natica sp.,Natica sp.,,0,N,2,1,0.001
+510,19010132,74000,bivalve unident.,Class Bivalvia,,0,N,2,,0.039
+511,19010133,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,3.112
+512,19010133,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,11,3.084
+513,19010133,99997,unsorted catch and debris,,,0,Y,1,,15.90
+514,19010133,99997,unsorted catch and debris,,,0,Y,1,,17.0
+515,19010133,99997,unsorted catch and debris,,,0,Y,1,,14.40
+516,19010133,99997,unsorted catch and debris,,,0,Y,1,,5.78
+517,19010133,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.566
+518,19010133,81780,common mud star,Ctenodiscus crispatus,,0,N,2,6,0.055
+519,19010133,24191,shortfin eelpout,Lycodes brevipes,,0,N,2,1,0.014
+520,19010134,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.880
+521,19010134,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,13,3.74
+522,19010134,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,1,0.055
+523,19010134,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,1.427
+524,19010134,99997,unsorted catch and debris,,,0,Y,1,,12.92
+525,19010134,99997,unsorted catch and debris,,,0,Y,1,,17.80
+526,19010134,99997,unsorted catch and debris,,,0,Y,1,,8.74
+527,19010134,99997,unsorted catch and debris,,,0,Y,1,,12.78
+528,19010134,99997,unsorted catch and debris,,,0,Y,1,,12.34
+529,19010134,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.856
+530,19010134,81780,common mud star,Ctenodiscus crispatus,,0,N,2,27,0.164
+531,19010135,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,2,0.685
+532,19010135,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,1,0.01
+533,19010135,99997,unsorted catch and debris,,,0,Y,1,,13.4
+534,19010135,99997,unsorted catch and debris,,,0,Y,1,,14.3
+535,19010135,99997,unsorted catch and debris,,,0,Y,1,,16.6
+536,19010135,99997,unsorted catch and debris,,,0,Y,1,,8.4
+537,19010135,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,5.84
+538,19010135,80810,Leafy Flat star,Luidia foliolata,,0,N,2,1,0.481
+539,19010136,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.842
+540,19010136,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,13,3.944
+541,19010136,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,3,0.150
+542,19010136,99997,unsorted catch and debris,,,0,Y,1,,15.42
+543,19010136,99997,unsorted catch and debris,,,0,Y,1,,16.66
+544,19010136,99997,unsorted catch and debris,,,0,Y,1,,7.62
+545,19010136,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,2.071
+546,19010136,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,3.940
+547,19010136,81780,common mud star,Ctenodiscus crispatus,,0,N,2,2,0.015
+1459,19010137,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,20,5.62
+1460,19010137,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,20,6
+1461,19010137,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,14,5.32
+1462,19010137,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,6,0.92
+555,19010138,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.710
+556,19010138,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,6,1.827
+557,19010138,99997,unsorted catch and debris,,,0,Y,1,,20.54
+558,19010138,99997,unsorted catch and debris,,,0,Y,1,,14.22
+559,19010138,99997,unsorted catch and debris,,,0,Y,1,,20.74
+560,19010138,81780,common mud star,Ctenodiscus crispatus,,0,N,2,14,0.088
+561,19010138,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.262
+562,19010138,68560,Tanner crab,Chionoecetes bairdi,,0,N,2,1,0.004
+563,19010139,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.730
+564,19010139,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,26,7.880
+565,19010139,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,6,0.122
+566,19010139,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,2.3
+567,19010139,99997,unsorted catch and debris,,,0,Y,1,,16.64
+568,19010139,99997,unsorted catch and debris,,,0,Y,1,,18.02
+569,19010139,99997,unsorted catch and debris,,,0,Y,1,,10.82
+570,19010139,81780,common mud star,Ctenodiscus crispatus,,0,N,2,63,0.422
+571,19010139,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.918
+572,19010139,74000,bivalve unident.,Class Bivalvia,,0,N,2,,0.01
+573,19010140,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.405
+574,19010140,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,24,5.94
+575,19010140,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,6,0.138
+576,19010140,99997,unsorted catch and debris,,,0,Y,1,,16.62
+577,19010140,99997,unsorted catch and debris,,,0,Y,1,,13.80
+578,19010140,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.298
+579,19010140,81780,common mud star,Ctenodiscus crispatus,,0,N,2,20,0.128
+580,19010140,68560,Tanner crab,Chionoecetes bairdi,,0,N,2,1,0.002
+1926,19010141,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.8
+1927,19010141,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,5,0.061
+1929,19010141,99997,unsorted catch and debris,,,0,Y,1,,21.14
+1930,19010141,99997,unsorted catch and debris,,,0,Y,1,,17.36
+1931,19010141,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,4.578
+1932,19010141,81780,common mud star,Ctenodiscus crispatus,,0,N,2,61,0.31
+1933,19010141,99993,empty bivalve shells,,,0,N,2,,0.087
+2226,19010141,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,36,9.42
+1934,19010142,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.778
+1935,19010142,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,57,8.6
+1936,19010142,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,100,16.9
+1937,19010142,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,4.82
+1938,19010142,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.505
+1939,19010142,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,8,0.457
+1940,19010142,99997,unsorted catch and debris,,,0,Y,1,,19.64
+1941,19010142,99997,unsorted catch and debris,,,0,Y,1,,17.98
+1942,19010142,99997,unsorted catch and debris,,,0,Y,1,,15.72
+1943,19010142,99997,unsorted catch and debris,,,0,Y,1,,21.44
+1944,19010142,99997,unsorted catch and debris,,,0,Y,1,,17.76
+1945,19010142,99997,unsorted catch and debris,,,0,Y,1,,9.5
+1946,19010142,99997,unsorted catch and debris,,,0,Y,1,,15.78
+1947,19010142,81780,common mud star,Ctenodiscus crispatus,,0,N,2,,3.626
+1948,19010142,50192,bristle worm,Aphrodita negligens,,0,N,2,4,0.057
+1949,19010142,68560,Tanner crab,Chionoecetes bairdi,,0,N,2,3,0.004
+1950,19010142,42017,orange sea pen,Ptilosarcus gurneyi,,0,N,2,1,0.001
+1951,19010142,20000,poacher unident.,Family Agonidae,,0,N,2,2,0.01
+1952,19010142,23000,smelt unident.,Family Osmeridae,,0,N,2,2,0.04
+1953,19010142,10001,flatfish unident.,Order Pleuronectiformes,,0,N,2,2,0.01
+1954,19010142,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,0.413
+1955,19010142,66020,Pandalus sp.,Pandalus sp.,,0,N,2,17,0.05
+1956,19010142,66520,Crangon resima,Crangon resima,,0,N,2,2,0.001
+1957,19010143,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.58
+1958,19010143,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,4.16
+1959,19010143,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,79,11.26
+1960,19010143,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.319
+1961,19010143,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,0.89
+1962,19010143,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,15,0.487
+1963,19010143,99997,unsorted catch and debris,,,0,Y,1,,8.22
+1964,19010143,99997,unsorted catch and debris,,,0,Y,1,,9.22
+1965,19010143,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,0.843
+1966,19010143,99993,empty bivalve shells,,,0,N,2,,1.326
+1967,19010143,74060,northern horsemussel,Modiolus modiolus,,0,N,2,1,0.022
+1968,19010143,99999,natural debris,,,0,N,2,,0.035
+1969,19010143,71525,Natica sp.,Natica sp.,,0,N,2,1,0.01
+1970,19010143,20000,poacher unident.,Family Agonidae,,0,N,2,,0.004
+1971,19010143,69010,hermit crab unident.,Family Paguridae,,0,N,2,2,0.01
+1972,19010143,68560,Tanner crab,Chionoecetes bairdi,,0,N,2,2,0.01
+1973,19010143,81780,common mud star,Ctenodiscus crispatus,,0,N,2,8,0.061
+1974,19010143,50192,bristle worm,Aphrodita negligens,,0,N,2,2,0.023
+1975,19010144,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.92
+1976,19010144,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,4.96
+1977,19010144,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,27,3.86
+1978,19010144,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.482
+1979,19010144,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,3,0.092
+1980,19010144,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,0.29
+1981,19010144,99993,empty bivalve shells,,,0,Y,1,,0.6848
+1982,19010144,83320,notched brittlestar,Ophiura sarsi,,0,Y,1,,0.271
+1983,19010144,99999,natural debris,,,0,Y,1,,0.111
+1984,19010144,81780,common mud star,Ctenodiscus crispatus,,0,Y,1,10,0.060
+1985,19010144,50192,bristle worm,Aphrodita negligens,,0,Y,1,1,0.033
+1986,19010144,71525,Natica sp.,Natica sp.,,0,Y,1,1,0.086
+1987,19010144,69010,hermit crab unident.,Family Paguridae,,0,Y,1,2,0.016
+1988,19010144,71511,moonsnail eggs unid.,Naticidae eggs,,0,Y,1,,0.034
+1989,19010144,10200,rex sole,Glyptocephalus zachirus,,0,Y,1,1,0.009
+1990,19010144,95040,Myriozoum subgracile,Myriozoum subgracile,,0,Y,1,3,0.009
+1991,19010145,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,9,1.968
+1992,19010145,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,1,0.091
+1993,19010145,99999,natural debris,,,0,Y,1,,0.21
+1994,19010145,99993,empty bivalve shells,,,0,Y,1,,0.13
+1995,19010145,99994,empty gastropod shells,,,0,Y,1,9,0.56
+1996,19010145,83320,notched brittlestar,Ophiura sarsi,,0,Y,1,,0.085
+1997,19010145,80810,Leafy Flat star,Luidia foliolata,,0,Y,1,5,0.118
+1998,19010145,10130,flathead sole,Hippoglossoides elassodon,,0,Y,1,1,0.32
+1999,19010145,10200,rex sole,Glyptocephalus zachirus,,0,Y,1,5,0.174
+2000,19010145,74416,crisscrossed yoldia,Yoldia scissurata,,0,Y,1,2,0.005
+1463,19010146,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,13,2.84
+1464,19010146,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,3,0.26
+2001,19010147,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,6,1.219
+2002,19010147,10200,rex sole,Glyptocephalus zachirus,,0,Y,1,9,0.566
+2003,19010147,10130,flathead sole,Hippoglossoides elassodon,,0,Y,1,1,0.027
+2004,19010147,99994,empty gastropod shells,,,0,Y,1,4,0.093
+2005,19010147,99993,empty bivalve shells,,,0,Y,1,1,0.028
+2006,19010147,81780,common mud star,Ctenodiscus crispatus,,0,Y,1,,0.003
+2007,19010147,99999,natural debris,,,0,Y,1,,0.123
+2008,19010147,83320,notched brittlestar,Ophiura sarsi,,0,Y,1,,0.067
+2009,19010147,401,skate egg case unident.,,,0,Y,1,1,0.057
+2010,19010147,66580,Arctic argid,Argis dentata,,0,Y,1,1,0.004
+2011,19010147,80810,Leafy Flat star,Luidia foliolata,,0,Y,1,9,0.182
+2012,19010148,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.99
+2013,19010148,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,22,4.26
+2014,19010148,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.52
+2015,19010148,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,3,0.175
+2016,19010148,99993,empty bivalve shells,,,0,Y,1,,0.525
+2017,19010148,10200,rex sole,Glyptocephalus zachirus,,0,Y,1,8,0.799
+2018,19010148,43000,sea anemone unident.,Order Actiniaria,,0,Y,1,2,0.6
+2019,19010148,83320,notched brittlestar,Ophiura sarsi,,0,Y,1,,0.258
+2020,19010148,80810,Leafy Flat star,Luidia foliolata,,0,Y,1,6,0.227
+2021,19010148,50192,bristle worm,Aphrodita negligens,,0,Y,1,2,0.076
+2022,19010148,71525,Natica sp.,Natica sp.,,0,Y,1,3,0.03
+2023,19010148,401,skate egg case unident.,,,0,Y,1,,0.197
+2024,19010148,68560,Tanner crab,Chionoecetes bairdi,,0,Y,1,1,0.002
+2025,19010148,66570,Argis sp.,Argis sp.,,0,Y,1,1,0.001
+2026,19010148,99999,natural debris,,,0,Y,1,,0.166
+2027,19010148,10180,Dover sole,Microstomus pacificus,,0,Y,1,1,0.157
+2028,19010148,10170,English sole,Parophrys vetulus,,0,Y,1,4,0.5
+2029,19010149,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,6.14
+2030,19010149,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.741
+2031,19010149,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,93,15.24
+2032,19010149,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,100,18.84
+2033,19010149,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,100,19.86
+2034,19010149,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,100,16.62
+2035,19010149,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,100,17.2
+2036,19010149,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,106,18.44
+2037,19010149,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.782
+2038,19010149,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,2.575
+2039,19010149,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,49,4.108
+2040,19010149,99993,empty bivalve shells,,,0,Y,1,,1.508
+2041,19010149,50192,bristle worm,Aphrodita negligens,,0,Y,1,19,0.275
+2042,19010149,69010,hermit crab unident.,Family Paguridae,,0,Y,1,14,0.132
+2043,19010149,80810,Leafy Flat star,Luidia foliolata,,0,Y,1,2,0.031
+2044,19010149,80540,Henricia sp.,Henricia sp.,,0,Y,1,1,0.035
+2045,19010149,71519,eulimas,Eulima sp.,,0,Y,1,5,0.027
+2046,19010149,75284,Serripes sp.,Serripes sp.,,0,Y,1,1,0.012
+2047,19010149,74980,Clinocardium sp.,Clinocardium sp.,,0,Y,1,2,0.017
+2048,19010149,68510,graceful decorator crab,Oregonia gracilis,,0,Y,1,1,0.01
+2049,19010149,72500,hairy triton (or Oregon triton),Fusitriton oregonensis,,0,Y,1,1,0.01
+2050,19010149,75385,Pandora sp.,Pandora sp.,,0,Y,1,1,0.01
+2051,19010149,81780,common mud star,Ctenodiscus crispatus,,0,Y,1,1,0.01
+2052,19010149,83320,notched brittlestar,Ophiura sarsi,,0,Y,1,,0.074
+2053,19010149,66020,Pandalus sp.,Pandalus sp.,,0,Y,1,20,0.06
+2054,19010149,74561,black mussel,Musculus niger,,0,Y,1,1,0.003
+2055,19010149,10200,rex sole,Glyptocephalus zachirus,,0,Y,1,2,0.325
+2056,19010149,21010,Pacific viperfish,Chauliodus macouni,,0,Y,1,6,0.171
+2057,19010149,21740,walleye pollock,Gadus chalcogrammus,,0,Y,1,1,0.02
+2058,19010149,10170,English sole,Parophrys vetulus,,0,Y,1,6,1.628
+2059,19010150,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,87,14.78
+2060,19010150,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.73
+2061,19010150,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,5.58
+2062,19010150,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,124,21
+2063,19010150,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,74,13.58
+2064,19010150,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.565
+2065,19010150,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,30,2.075
+2066,19010150,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,32,2.197
+2067,19010150,99997,unsorted catch and debris,,,0,Y,1,,11.9
+2068,19010150,99997,unsorted catch and debris,,,0,Y,1,,12.78
+2069,19010151,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,6.4
+2070,19010151,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.871
+2071,19010151,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,90,18.36
+2072,19010151,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,40,7.3
+2073,19010151,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,19,1.32
+2074,19010151,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,10,0.536
+2075,19010151,435,Bering skate,Bathyraja interrupta,,-1,Y,1,2,0.32
+2076,19010151,99997,unsorted catch and debris,,,0,Y,1,,10.5
+2077,19010151,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,0.713
+2078,19010151,81870,northern sea star,Dipsacaster borealis,,0,N,2,,1.353
+2079,19010151,50192,bristle worm,Aphrodita negligens,,0,N,2,33,0.476
+2080,19010151,72751,lyre buccinum (or sinuous whelk),Buccinum plectrum,,0,N,2,4,0.089
+2081,19010151,71525,Natica sp.,Natica sp.,,0,N,2,4,0.062
+2082,19010151,69010,hermit crab unident.,Family Paguridae,,0,N,2,30,0.272
+2083,19010151,66020,Pandalus sp.,Pandalus sp.,,0,N,2,7,0.026
+2084,19010151,74104,Chlamys sp.,Chlamys sp.,,0,N,2,1,0.021
+2085,19010151,68560,Tanner crab,Chionoecetes bairdi,,0,N,2,5,0.009
+2086,19010151,21300,sculpin unident.,Family Cottidae,,0,N,2,2,0.029
+2087,19010151,24185,wattled eelpout,Lycodes palearis,,0,N,2,1,0.246
+2088,19010151,99999,natural debris,,,0,N,2,,0.026
+2089,19010151,24191,shortfin eelpout,Lycodes brevipes,,0,N,2,1,0.036
+2090,19010151,23791,dwarf wrymouth,Lyconectes aleutensis,,0,N,2,1,0.014
+2091,19010151,10170,English sole,Parophrys vetulus,,0,N,2,4,0.603
+2092,19010152,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.785
+2093,19010152,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.7
+2094,19010152,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,8,0.357
+2095,19010152,99997,unsorted catch and debris,,,0,Y,1,,22.46
+2096,19010152,81780,common mud star,Ctenodiscus crispatus,,0,N,2,,1.426
+2097,19010152,24185,wattled eelpout,Lycodes palearis,,0,N,2,1,0.211
+2098,19010152,80170,Stylasterias forreri,Stylasterias forreri,,0,N,2,1,0.186
+2099,19010152,80810,Leafy Flat star,Luidia foliolata,,0,N,2,1,0.495
+2100,19010152,50192,bristle worm,Aphrodita negligens,,0,N,2,6,0.073
+2101,19010152,66020,Pandalus sp.,Pandalus sp.,,0,N,2,1,0.005
+2102,19010152,69010,hermit crab unident.,Family Paguridae,,0,N,2,9,0.053
+2103,19010152,75284,Serripes sp.,Serripes sp.,,0,N,2,6,0.037
+2104,19010152,82675,heart urchin,Brisaster latifrons,,0,N,2,1,0.005
+2105,19010152,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,0.013
+2106,19010152,68560,Tanner crab,Chionoecetes bairdi,,0,N,2,1,0.001
+2107,19010153,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.393
+2108,19010153,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,9,1.476
+2109,19010153,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,2,0.188
+2110,19010153,435,Bering skate,Bathyraja interrupta,,-1,Y,1,1,1.72
+2111,19010153,99997,unsorted catch and debris,,,0,Y,1,,19.38
+2112,19010153,99997,unsorted catch and debris,,,0,Y,1,,10.44
+2113,19010153,81780,common mud star,Ctenodiscus crispatus,,0,N,2,,2.118
+2114,19010153,10130,flathead sole,Hippoglossoides elassodon,,0,N,2,1,0.436
+2115,19010153,10180,Dover sole,Microstomus pacificus,,0,N,2,1,1.203
+2116,19010153,75284,Serripes sp.,Serripes sp.,,0,N,2,14,0.114
+2117,19010153,83320,notched brittlestar,Ophiura sarsi,,0,N,2,3,0.007
+2118,19010153,69010,hermit crab unident.,Family Paguridae,,0,N,2,14,0.112
+2119,19010153,85000,sea cucumber unident.,Class Holothuroidea,,0,N,2,1,0.01
+2120,19010153,74435,Nuculana sp.,Nuculana sp.,,0,N,2,1,0.001
+2121,19010153,80810,Leafy Flat star,Luidia foliolata,,0,N,2,2,0.388
+2122,19010153,66020,Pandalus sp.,Pandalus sp.,,0,N,2,1,0.002
+2123,19010153,50192,bristle worm,Aphrodita negligens,,0,N,2,17,0.208
+2124,19010153,72751,lyre buccinum (or sinuous whelk),Buccinum plectrum,,0,N,2,1,0.025
+1465,19010154,74120,weathervane scallop,Patinopecten caurinus,,5,Y,1,40,7.4
+1466,19010154,74120,weathervane scallop,Patinopecten caurinus,,6,Y,1,12,1.16
+2125,19010155,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,30,6.04
+2126,19010155,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,38,7.4
+2127,19010155,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.092
+2128,19010155,435,Bering skate,Bathyraja interrupta,,-1,Y,1,1,1.78
+2129,19010155,99997,unsorted catch and debris,,,0,Y,1,,6
+2130,19010155,69010,hermit crab unident.,Family Paguridae,,0,N,2,,1.758
+2131,19010155,99993,empty bivalve shells,,,0,N,2,,0.211
+2132,19010155,81780,common mud star,Ctenodiscus crispatus,,0,N,2,,0.333
+2133,19010155,83320,notched brittlestar,Ophiura sarsi,,0,N,2,,0.063
+2134,19010155,68560,Tanner crab,Chionoecetes bairdi,,0,N,2,,0.002
+2135,19010155,50192,bristle worm,Aphrodita negligens,,0,N,2,22,0.273
+2136,19010155,66020,Pandalus sp.,Pandalus sp.,,0,N,2,24,0.076
+2137,19010155,71511,moonsnail eggs unid.,Naticidae eggs,,0,N,2,,0.517
+2138,19010155,99999,natural debris,,,0,N,2,,0.281
+2139,19010155,71525,Natica sp.,Natica sp.,,0,N,2,5,0.058
+2140,19010155,75284,Serripes sp.,Serripes sp.,,0,N,2,22,0.260
+2141,19010155,74980,Clinocardium sp.,Clinocardium sp.,,0,N,2,2,0.039
+2142,19010155,72500,hairy triton (or Oregon triton),Fusitriton oregonensis,,0,N,2,1,0.026
+2143,19010155,10180,Dover sole,Microstomus pacificus,,0,N,2,1,0.615
+2144,19010156,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.178
+2145,19010156,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,13,3.174
+2146,19010156,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,23,5.5
+2147,19010156,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,1,0.041
+2148,19010156,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,0.633
+2149,19010156,420,big skate,Raja binoculata,,-1,Y,1,1,2.094
+2150,19010156,10130,flathead sole,Hippoglossoides elassodon,,0,Y,1,1,0.215
+2151,19010156,10200,rex sole,Glyptocephalus zachirus,,0,Y,1,2,0.607
+2152,19010156,10170,English sole,Parophrys vetulus,,0,Y,1,7,4.36
+2153,19010156,66020,Pandalus sp.,Pandalus sp.,,0,Y,1,27,0.065
+2154,19010156,69010,hermit crab unident.,Family Paguridae,,0,Y,1,,0.603
+2155,19010156,50192,bristle worm,Aphrodita negligens,,0,Y,1,,0.208
+2156,19010156,99999,natural debris,,,0,Y,1,,0.508
+2157,19010156,83320,notched brittlestar,Ophiura sarsi,,0,Y,1,,0.015
+2158,19010156,81780,common mud star,Ctenodiscus crispatus,,0,Y,1,4,0.015
+2159,19010156,80810,Leafy Flat star,Luidia foliolata,,0,Y,1,1,0.007
+2160,19010156,72500,hairy triton (or Oregon triton),Fusitriton oregonensis,,0,Y,1,2,0.016
+2161,19010156,71525,Natica sp.,Natica sp.,,0,Y,1,4,0.031
+2162,19010156,99999,natural debris,,,0,Y,1,,0.328
+2163,19010156,75284,Serripes sp.,Serripes sp.,,0,Y,1,6,0.066
+2164,19010156,74561,black mussel,Musculus niger,,0,Y,1,7,0.041
+2165,19010156,42017,orange sea pen,Ptilosarcus gurneyi,,0,Y,1,,0.015
+2166,19010156,74416,crisscrossed yoldia,Yoldia scissurata,,0,Y,1,10,0.02
+2167,19010156,71080,California armina,Armina californica,,0,Y,1,1,0.01
+2168,19010157,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,2.57
+2169,19010157,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,25,5.65
+2170,19010157,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,3,0.173
+2171,19010157,435,Bering skate,Bathyraja interrupta,,-1,Y,1,1,2.113
+2172,19010157,10180,Dover sole,Microstomus pacificus,,0,Y,1,6,3.55
+2173,19010157,10130,flathead sole,Hippoglossoides elassodon,,0,Y,1,2,1.1
+2174,19010157,10200,rex sole,Glyptocephalus zachirus,,0,Y,1,4,0.918
+2175,19010157,69010,hermit crab unident.,Family Paguridae,,0,Y,1,,0.982
+2176,19010157,81780,common mud star,Ctenodiscus crispatus,,0,Y,1,11,0.071
+2177,19010157,83320,notched brittlestar,Ophiura sarsi,,0,Y,1,,0.072
+2178,19010157,66020,Pandalus sp.,Pandalus sp.,,0,Y,1,7,0.032
+2179,19010157,74561,black mussel,Musculus niger,,0,Y,1,4,0.024
+2180,19010157,71080,California armina,Armina californica,,0,Y,1,1,0.021
+2181,19010157,80810,Leafy Flat star,Luidia foliolata,,0,Y,1,1,0.025
+2182,19010157,50192,bristle worm,Aphrodita negligens,,0,Y,1,16,0.3
+2183,19010157,99999,natural debris,,,0,Y,1,,0.704
+2184,19010157,71525,Natica sp.,Natica sp.,,0,Y,1,5,0.046
+2185,19010157,75284,Serripes sp.,Serripes sp.,,0,Y,1,29,0.433
+2186,19010157,72500,hairy triton (or Oregon triton),Fusitriton oregonensis,,0,Y,1,1,0.023
+2187,19010158,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,10,1.9
+2188,19010158,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,5,0.96
+2189,19010158,74120,weathervane scallop,Patinopecten caurinus,,1,Y,1,1,0.138
+2190,19010158,74120,weathervane scallop,Patinopecten caurinus,,2,Y,1,3,0.191
+2191,19010158,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,1.095
+2192,19010158,99997,unsorted catch and debris,,,0,Y,1,,16.2
+2193,19010158,99997,unsorted catch and debris,,,0,Y,1,,19.6
+2194,19010158,99997,unsorted catch and debris,,,0,Y,1,,13.02
+2195,19010158,99997,unsorted catch and debris,,,0,Y,1,,16.2
+2196,19010158,99997,unsorted catch and debris,,,0,Y,1,,13.26
+2197,19010158,69010,hermit crab unident.,Family Paguridae,,0,N,2,,0.132
+2198,19010158,50192,bristle worm,Aphrodita negligens,,0,N,2,1,0.019
+2199,19010158,71525,Natica sp.,Natica sp.,,0,N,2,2,0.021
+2200,19010158,75284,Serripes sp.,Serripes sp.,,0,N,2,7,0.055
+2201,19010158,83020,basket star,Gorgonocephalus eucnemis,,0,N,2,1,0.088
+2202,19010158,66020,Pandalus sp.,Pandalus sp.,,0,N,2,7,0.042
+2203,19010158,68560,Tanner crab,Chionoecetes bairdi,,0,N,2,2,0.002
+2204,19010158,74435,Nuculana sp.,Nuculana sp.,,0,N,2,6,0.001
+2205,19010158,62025,Rocinella angusta,Rocinella angusta,,0,N,2,1,0.001
+2206,19010158,81780,common mud star,Ctenodiscus crispatus,,0,N,2,,4.768
+2207,19010159,80160,sunflower sea star,Pycnopodia helianthoides,,-1,Y,1,1,0.981
+2208,19010159,99997,unsorted catch and debris,,,0,Y,1,,15.24
+2209,19010159,99997,unsorted catch and debris,,,0,Y,1,,14.66
+2210,19010159,99997,unsorted catch and debris,,,0,Y,1,,15.3
+2211,19010159,99997,unsorted catch and debris,,,0,Y,1,,15.94
+2212,19010159,99997,unsorted catch and debris,,,0,Y,1,,16.94
+2213,19010159,10180,Dover sole,Microstomus pacificus,,0,N,2,,0.930
+2214,19010159,81780,common mud star,Ctenodiscus crispatus,,0,N,2,,4.684
+2215,19010159,71525,Natica sp.,Natica sp.,,0,N,2,2,0.016
+2216,19010159,69010,hermit crab unident.,Family Paguridae,,0,N,2,4,0.043
+2217,19010159,75240,Macoma sp.,Macoma sp.,,0,N,2,2,0.005
+2218,19010159,66020,Pandalus sp.,Pandalus sp.,,0,N,2,2,0.007
+2219,19010159,71080,California armina,Armina californica,,0,N,2,1,0.002
+2220,19010159,74435,Nuculana sp.,Nuculana sp.,,0,N,2,1,0.001
+2221,19010159,74414,Yoldia sp.,Yoldia sp.,,0,N,2,1,0.001
