@@ -23,7 +23,7 @@ scal_awl <- clean_awl(awl_data, tows)
 # table of catch results
 tbl_catch <- tbl_catch(scal_catch, beds)
 abund_est <- scallop_est(scal_catch, beds, Q = Q, abundance = TRUE, boot = TRUE)
-biom_est <- scallop_est(scal_catch, beds, Q = Q, abundance = TRUE, boot = TRUE)
+biom_est <- scallop_est(scal_catch, beds, Q = Q, abundance = FALSE, boot = TRUE)
 meat_wt_est(scal_awl, scal_catch, Q = Q, beds, boot = TRUE)
 tbl_sex(scal_awl, tows)
 tbl_worm(scal_awl, tows)
