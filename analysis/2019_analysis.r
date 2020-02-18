@@ -253,15 +253,18 @@ f_sh_size_comp <- function(pbed){
          awl = list(read_csv("./output/2016/awl_tbl.csv"),
                     read_csv("./output/2017/awl_tbl.csv"),
                     read_csv("./output/2018/awl_tbl.csv"),
-                    read_csv("./output/2019/awl_tbl.csv")),
+                    read_csv("./output/2019/awl_tbl.csv") %>%
+                      mutate(tow_id = as.character(tow_id))),
          catch = list(read_csv("./output/2016/scal_catch.csv"),
                       read_csv("./output/2017/scal_catch.csv"),
                       read_csv("./output/2018/scal_catch.csv"),
-                      read_csv("./output/2019/scal_catch.csv")),
+                      read_csv("./output/2019/scal_catch.csv") %>%
+                        mutate(tow_id = as.character(tow_id))),
          tows = list(read_csv("./output/2016/tows.csv"),
                      read_csv("./output/2017/tows.csv"),
                      read_csv("./output/2018/tows.csv"),
-                     read_csv("./output/2019/tows.csv"))) %>%
+                     read_csv("./output/2019/tows.csv") %>%
+                       mutate(tow_id = as.character(tow_id)))) %>%
     mutate(int = map2(awl, catch, f_weighted_count_step1),
            wt_sh = map2(int, tows, f_weighted_count_step2)) %>%
     select(Year, wt_sh) %>%
@@ -301,7 +304,8 @@ f_mw_sh_plot <- function(pbed){
          tows = list(read_csv("./output/2016/tows.csv"),
                      read_csv("./output/2017/tows.csv"),
                      read_csv("./output/2018/tows.csv"),
-                     read_csv("./output/2019/tows.csv"))) %>%
+                     read_csv("./output/2019/tows.csv") %>%
+                       select(-station))) %>%
     mutate(mw_sh = map2(scal_awl, tows, f_mw_sh)) %>%
     pull(mw_sh) %>%
     do.call("rbind", .) %>%
@@ -333,13 +337,15 @@ tibble(Year = c(2016:2019),
        tows = list(read_csv("./output/2016/tows.csv"),
                    read_csv("./output/2017/tows.csv"),
                    read_csv("./output/2018/tows.csv"),
-                   read_csv("./output/2019/tows.csv"))) %>%
+                   read_csv("./output/2019/tows.csv") %>%
+                     select(-station))) %>%
   mutate(mw_sh = map2(scal_awl, tows, f_mw_sh)) %>%
   pull(mw_sh) %>%
   do.call("rbind", .) %>%
   mutate(Year = substring(tow_id, 1, 4),
          Year = factor(ifelse(Year == "1901", 2019, Year))) %>%
   filter(District == "YAK") %>%
+  #filter(gonad == 4) %>%
   ggplot(aes(x = sh, y = mwt_lb, color = Year)) +
   geom_point(alpha = 0.1) +
   geom_smooth(se = F, method = "gam", formula = y ~ s(x, bs = "cs")) +
@@ -368,9 +374,10 @@ f_mw_rw_plot <- function(pbed){
          tows = list(read_csv("./output/2016/tows.csv"),
                      read_csv("./output/2017/tows.csv"),
                      read_csv("./output/2018/tows.csv"),
-                     read_csv("./output/2019/tows.csv"))) %>%
-    mutate(mw_sh = map2(scal_awl, tows, f_mw_rw)) %>%
-    pull(mw_sh) %>%
+                     read_csv("./output/2019/tows.csv") %>%
+                       select(-station))) %>%
+    mutate(mw_rw = map2(scal_awl, tows, f_mw_rw)) %>%
+    pull(mw_rw) %>%
     do.call("rbind", .) %>%
     mutate(Year = substring(tow_id, 1, 4),
            Year = factor(ifelse(Year == "1901", 2019, Year))) %>%
@@ -399,9 +406,10 @@ tibble(Year = c(2016:2019),
        tows = list(read_csv("./output/2016/tows.csv"),
                    read_csv("./output/2017/tows.csv"),
                    read_csv("./output/2018/tows.csv"),
-                   read_csv("./output/2019/tows.csv"))) %>%
-  mutate(mw_sh = map2(scal_awl, tows, f_mw_rw)) %>%
-  pull(mw_sh) %>%
+                   read_csv("./output/2019/tows.csv") %>%
+                     select(-station))) %>%
+  mutate(mw_rw = map2(scal_awl, tows, f_mw_rw)) %>%
+  pull(mw_rw) %>%
   do.call("rbind", .) %>%
   mutate(Year = substring(tow_id, 1, 4),
          Year = factor(ifelse(Year == "1901", 2019, Year))) %>%
@@ -417,6 +425,68 @@ tibble(Year = c(2016:2019),
 
 ggsave("figs/2019/yak_combined_mwt_rw.png", plot = x, width = 6.5, height = 4, units = "in")
 
+## Gonad development within years
+tibble(Year = c(2016:2019),
+       scal_awl = list(read_csv("./output/2016/awl_tbl.csv"),
+                       read_csv("./output/2017/awl_tbl.csv"),
+                       read_csv("./output/2018/awl_tbl.csv"),
+                       read_csv("./output/2019/awl_tbl.csv") %>%
+                         mutate(tow_id = as.character(tow_id))),
+       tows = list(read_csv("./output/2016/tows.csv"),
+                   read_csv("./output/2017/tows.csv"),
+                   read_csv("./output/2018/tows.csv"),
+                   read_csv("./output/2019/tows.csv") %>%
+                     mutate(tow_id = as.character(tow_id)) %>%
+                     select(-station))) %>%
+  mutate(mw_sh = map2(scal_awl, tows, f_mw_rw)) %>%
+  select(Year, mw_sh) %>%
+  unnest(mw_sh) %>%
+  mutate(Gonad_name = case_when(gonad == 0 ~ "Immature",
+                                gonad == 1 ~ "Empty",
+                                gonad == 2 ~ "Initial Recovery",
+                                gonad == 3 ~ "Filling",
+                                gonad == 4 ~ "Full",
+                                gonad == 5 ~ "Cannot Determine"),
+         Gonad_name = factor(Gonad_name, levels = c("Immature", "Empty", "Initial Recovery",
+                                                    "Filling", "Full", "Cannot Determine"))) %>%
+  filter(size == "large",
+         Bed %in% Bed_levels) %>%
+  ggplot()+
+  geom_bar(aes(x = factor(Year), fill = Gonad_name), position = "fill")+
+  scale_fill_grey(na.value = "white")+
+  labs(x = NULL, y = "Proportion", fill = "Gonad Development") -> x 
+
+ggsave("./figs/2019/gonad_score.png", plot = x, width = 4, height = 4, units = "in")
+
+# Examine shell height meat wieght with only gonad == 3 individuals
+tibble(Year = c(2016:2019),
+       scal_awl = list(read_csv("./output/2016/awl_tbl.csv"),
+                       read_csv("./output/2017/awl_tbl.csv"),
+                       read_csv("./output/2018/awl_tbl.csv"),
+                       read_csv("./output/2019/awl_tbl.csv")),
+       tows = list(read_csv("./output/2016/tows.csv"),
+                   read_csv("./output/2017/tows.csv"),
+                   read_csv("./output/2018/tows.csv"),
+                   read_csv("./output/2019/tows.csv") %>%
+                     select(-station))) %>%
+  mutate(mw_sh = map2(scal_awl, tows, f_mw_rw)) %>%
+  pull(mw_sh) %>%
+  do.call("rbind", .) %>%
+  mutate(Year = substring(tow_id, 1, 4),
+         Year = factor(ifelse(Year == "1901", 2019, Year))) %>%
+  filter(District == "YAK",
+         size == "large",
+         gonad == 3) %>%
+ggplot(aes(x = rwt_lb, y = mwt_lb, color = Year)) +
+  geom_point(alpha = 0.3) +
+  geom_smooth(se = F, method = "gam", formula = y ~ s(x, bs = "cs")) +
+  labs(y = "Meat weight (lb)", x = "Round weight (lb)", title = "Yakutat Combined") +
+  scale_color_grey() +
+  theme(legend.justification=c(1,0), 
+        legend.position=c(0.2,0.65),
+        plot.title = element_text(hjust = 0.5)) -> x
+ggsave("figs/2019/yak_combined_mwt_rw_gonad3.png", plot = x, width = 6.5, height = 4, units = "in")
+  
 
 ## map cpue for each bed on map
 # start with the tows for each year
