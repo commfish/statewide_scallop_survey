@@ -5,7 +5,10 @@
 ## sources: 
 ### https://github.com/tidyverse/ggplot2/wiki/plotting-polygon-shapefiles
 ### https://mgimond.github.io/Spatial/coordinate-systems-in-r.html
-## last updated 2020/2/7
+## last updated 2020/2/19
+
+## source functions within a separate script
+## see annotation below for arguments
 
 # load ----
 library(sp)
@@ -19,7 +22,9 @@ library(gpclib); gpclibPermit()
 #path <- "./data/maps/statewide_scallop_survey_grid_2019"
 #layer <- "scalGrid2019_all_albers"
 
-## read shapefile into R to draw a polygon
+## read shapefile into R to draw a polygon in ggplot2
+### arugment path is the file path to the directory housing the shapefiles
+### arugment layer is the name of shapfiles, minus the extension
 f_shp_prep <- function(path, layer){
 
 shp <- readOGR(dsn = path, layer = layer)
